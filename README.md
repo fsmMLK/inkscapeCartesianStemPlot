@@ -116,21 +116,21 @@ the extension will create two graphs, where:
 
 **Zero sample:** Here you can set the sample that should be placed at x=0. This number cannot be outside the set of points you provided. If the number is larger than the length of the data, the last sample will be set to x=0.
 
-<img src="docs/images/Zero_sample.png" width="300px"/>
+<img src="docs/images/Zero_sample.png" width="600px"/>
 
 **Use ellipsis marks at the ends:** Use ellipsis marks at the end of the plots to indicate continuation
 
-<img src="docs/images/ellipsis.png" width="300px"/>
+<img src="docs/images/ellipsis.png" width="250px"/>
 
 **Draw Cartesian plane for each data set:** This option affects only multiple plots via input file. If toggled, each plot will have its own Cartesian plane. Otherwise only the first plot will have it.
 
 **General aspect factor:** General aspect ratio between line widths and text width. I designed this extension to have an overall aspect ratio that looked nice to my eyes. It is a function of X and Y tick lengths. With this control you can scale both line widths and text height to fit your needs.
 
-<img src="docs/images/general_aspect_ratio.png" width="700px"/>
+<img src="docs/images/general_aspect_ratio.png" width="800px"/>
 
 **Stem aspect factor:** General aspect ratio bof the stem markers.
 
-<img src="docs/images/stem_aspect_ratio.png" width="700px"/>
+<img src="docs/images/stem_aspect_ratio.png" width="800px"/>
 
 
 ### The Axes Configuration tab
@@ -163,7 +163,7 @@ Ex: limits from -1 to 1, with tick step of 0.5 will produce ticks at -1, -0.5, 0
 
 **Y tick suffix value:** Optional extra suffix to be added to the tick values. You can use any LaTeX text/commands valid in mathematical environment $...$. You don't have to enclose your text between $...$. You don't have to escape any backslashes.
 
-<img src="docs/images/TickSuffix.png" width="800px"/>
+<img src="docs/images/TickSuffix.png" width="600px"/>
 
 **Use custom Y axis range:** Toggle custom Y axis range of values.
 
@@ -173,7 +173,7 @@ Ex: limits from -1 to 1, with tick step of 0.5 will produce ticks at -1, -0.5, 0
 > Ymin must be a number less or equal to 0
 > Ymax must be a number greater or equal to 0
 
-<img src="docs/images/Ymin_Ymax.png" width="600px"/>
+<img src="docs/images/Ymin_Ymax.png" width="800px"/>
 
 
 ### The Colors tab
@@ -190,6 +190,10 @@ In both sections, you have three options in the `Color` drop down menu:
 
   - You can select **use color picker** to choose the color from the color picker widget just below the `Color` drop down menu. **Attention:** the color selected in the color picker widget will be considered **ONLY** if you select **use color picker** in the drop down menu. 
 
+
+<img src="docs/images/Colors.png" width="500px"/>
+
+Default colors
 <img src="docs/images/Default_colors.png" width="300px"/>
 
 # Observations

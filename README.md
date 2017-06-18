@@ -159,11 +159,11 @@ Ex: limits from -1 to 1, with tick step of 0.5 will produce ticks at -1, -0.5, 0
 
 **X/Y tick length** The distance between the tick marks, in px.
 
-<img src="docs/images/XY_ticks.png" width="350px"/>
+<img src="docs/images/XY_ticks.png" width="700px"/>
 
 **Y tick suffix value:** Optional extra suffix to be added to the tick values. You can use any LaTeX text/commands valid in mathematical environment $...$. You don't have to enclose your text between $...$. You don't have to escape any backslashes.
 
-<img src="docs/images/TickSuffix.png" width="600px"/>
+<img src="docs/images/TickSuffix.png" width="500px"/>
 
 **Use custom Y axis range:** Toggle custom Y axis range of values.
 
@@ -173,12 +173,12 @@ Ex: limits from -1 to 1, with tick step of 0.5 will produce ticks at -1, -0.5, 0
 > Ymin must be a number less or equal to 0
 > Ymax must be a number greater or equal to 0
 
-<img src="docs/images/Ymin_Ymax.png" width="800px"/>
+<img src="docs/images/Ymin_Ymax.png" width="900px"/>
 
 
 ### The Colors tab
 
-<img src="docs/images/Config_colors.png" width="700px"/>
+<img src="docs/images/Config_colors.png" width="600px"/>
 
 This tab is divided in two sections. The first sets the marker color while the second to the line color.
 
@@ -191,7 +191,7 @@ In both sections, you have three options in the `Color` drop down menu:
   - You can select **use color picker** to choose the color from the color picker widget just below the `Color` drop down menu. **Attention:** the color selected in the color picker widget will be considered **ONLY** if you select **use color picker** in the drop down menu. 
 
 
-<img src="docs/images/Colors.png" width="500px"/>
+<img src="docs/images/Colors.png" width="300px"/>
 
 Default colors
 <img src="docs/images/Default_colors.png" width="300px"/>

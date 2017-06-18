@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.1 unknown"
+   sodipodi:docname="Config_Axes.svg"
+   inkscape:export-xdpi="145.1210174561"
+   inkscape:export-ydpi="145.1210174561">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Sendu"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sendu-6-2-9"
+       style="overflow:visible">
+      <path
+         id="path5855-7-9-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sendu"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sendu-6-2-9-1"
+       style="overflow:visible">
+      <path
+         id="path5855-7-9-3-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sendu"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sendu-6-2-9-1-6"
+       style="overflow:visible">
+      <path
+         id="path5855-7-9-3-2-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sendu"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sendu-6-2-9-1-6-9"
+       style="overflow:visible">
+      <path
+         id="path5855-7-9-3-2-2-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sendu"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sendu-6-2-9-1-6-9-5-7"
+       style="overflow:visible">
+      <path
+         id="path5855-7-9-3-2-2-2-9-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sendu"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sendu-6-2-9-1-6-9-5-7-3"
+       style="overflow:visible">
+      <path
+         id="path5855-7-9-3-2-2-2-9-3-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sendu"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sendu-6-2-9-1-6-9-5-7-5"
+       style="overflow:visible">
+      <path
+         id="path5855-7-9-3-2-2-2-9-3-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sendu"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sendu-6-2-9-1-6-9-1"
+       style="overflow:visible">
+      <path
+         id="path5855-7-9-3-2-2-2-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sendu"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sendu-6-2-9-1-6-7"
+       style="overflow:visible">
+      <path
+         id="path5855-7-9-3-2-2-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sendu"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sendu-6-2-9-1-9"
+       style="overflow:visible">
+      <path
+         id="path5855-7-9-3-2-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sendu"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sendu-6-2-9-18"
+       style="overflow:visible">
+      <path
+         id="path5855-7-9-3-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sendu"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sendu-6-2-9-1-6-9-5-4-4-0"
+       style="overflow:visible">
+      <path
+         id="path5855-7-9-3-2-2-2-9-5-3-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.0000000298pt"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sendu"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sendu-6-2-9-3-62"
+       style="overflow:visible">
+      <path
+         id="path5855-7-9-3-6-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.0000000298pt"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sendu"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sendu-6-2-9-3-6-1"
+       style="overflow:visible">
+      <path
+         id="path5855-7-9-3-6-2-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.0000000298pt"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.8507378463395"
+     inkscape:cx="524.4173951002"
+     inkscape:cy="496.5319804129"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
+     showgrid="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1062"
+     inkscape:window-x="-4"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:snap-smooth-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4951" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       sodipodi:relref="./Config_axes_tab.png"
+       xlink:href="Config_axes_tab.png"
+       y="307.8410949707"
+       x="245.6006469727"
+       id="image4867"
+       preserveAspectRatio="none"
+       height="610.3125"
+       width="459.375" />
+    <g
+       id="g10516-6-5-1-6"
+       transform="matrix(2.88,0,0,2.88,747.1674077886,1519.42471909)"
+       inkscape:export-xdpi="145.1815338135"
+       inkscape:export-ydpi="145.1815338135">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="-217.7664642334"
+         y="-326.736114502"
+         id="text5200-29-1-3-2-0"><tspan
+           sodipodi:role="line"
+           x="-217.7664642334"
+           y="-326.736114502"
+           id="tspan5457"
+           style="font-size:5px;line-height:1;font-family:sans-serif">Label of Y axis</tspan></text>
+      <path
+         sodipodi:nodetypes="ccc"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ff0000;stroke-width:0.6000000238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#Arrow1Sendu-6-2-9);enable-background:accumulate"
+         d="m -217.7664610377,-324.9999999999 36.4583333333,-2e-10 10.4166666667,2e-10"
+         id="path5214-9-3-6-0-2"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g10516-6-5-1-6-70"
+       transform="matrix(2.88,0,0,2.88,597.1674077887,1573.570562538)"
+       inkscape:export-xdpi="145.1815338135"
+       inkscape:export-ydpi="145.1815338135">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+         x="-129.2247924805"
+         y="-326.736114502"
+         id="text5200-29-1-3-2-0-9"><tspan
+           sodipodi:role="line"
+           x="-129.2247924805"
+           y="-326.736114502"
+           id="tspan4292-36"
+           style="font-size:5px;line-height:1;font-family:sans-serif">Y ticks toggle</tspan></text>
+      <path
+         sodipodi:nodetypes="ccc"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ff0000;stroke-width:0.6000000238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#Arrow1Sendu-6-2-9-1);enable-background:accumulate"
+         d="m -163.9470165933,-324.9999999999 34.7222222222,-2e-10 10.4166666667,2e-10"
+         id="path5214-9-3-6-0-2-0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g10516-6-5-1-6-70-6"
+       transform="matrix(2.88,0,0,2.88,597.1674077887,1602.556677044)"
+       inkscape:export-xdpi="145.1815338135"
+       inkscape:export-ydpi="145.1815338135">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+         x="-129.2247924805"
+         y="-326.736114502"
+         id="text5200-29-1-3-2-0-9-1"><tspan
+           sodipodi:role="line"
+           x="-129.2247924805"
+           y="-326.736114502"
+           id="tspan4292-36-8"
+           style="font-size:5px;line-height:1;font-family:sans-serif">Y ticks interval</tspan></text>
+      <path
+         sodipodi:nodetypes="ccc"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ff0000;stroke-width:0.6000000238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#Arrow1Sendu-6-2-9-1-6);enable-background:accumulate"
+         d="m -167.4192388155,-324.9999999999 38.1944444444,-2e-10 10.4166666667,2e-10"
+         id="path5214-9-3-6-0-2-0-7"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g10516-6-5-1-6-70-6-0"
+       transform="matrix(2.88,0,0,2.88,597.1674077887,1700.917791718)"
+       inkscape:export-xdpi="145.1815338135"
+       inkscape:export-ydpi="145.1815338135">
+      text
+         xml:space=&quot;preserve&quot;
+         style=&quot;font-style:normal;font-weight:normal;font-size:5px;line-height:100%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none&quot;
+         x=&quot;-129.22479&quot;
+         y=&quot;-326.73611&quot;
+         id=&quot;text5200-29-1-3-2-0-9-1-2&quot;
+         sodipodi:linespacing=&quot;100%&quot;&gt;<tspan
+   sodipodi:role="line"
+   x="-129.22479"
+   y="-326.73611"
+   id="tspan4292-36-8-3">Y ticks interval size in svg units</tspan>
+</g>
+    <path
+       sodipodi:nodetypes="ccc"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ff0000;stroke-width:0.6000000238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#Arrow1Sendu-6-2-9-1-6-9);enable-background:accumulate"
+       d="m -209.0859054822,-324.9999999999 79.8611111111,-2e-10 10.4166666667,2e-10"
+       id="path5214-9-3-6-0-2-0-7-7"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g10516-6-5-1-6-70-6-0-2-6"
+     transform="matrix(2.88,0,0,2.88,597.1674077886,1546.459448036)"
+     inkscape:export-xdpi="145.1815338135"
+     inkscape:export-ydpi="145.1815338135">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+       x="-129.2247924805"
+       y="-326.736114502"
+       id="text5200-29-1-3-2-0-9-1-2-2-1"><tspan
+         sodipodi:role="line"
+         x="-129.2247924805"
+         y="-326.736114502"
+         id="tspan4292-36-8-3-8-2"
+         style="font-size:5px;line-height:1;font-family:sans-serif">Y grid  toggle</tspan></text>
+    <path
+       sodipodi:nodetypes="ccc"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ff0000;stroke-width:0.6000000238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#Arrow1Sendu-6-2-9-1-6-9-5-7);enable-background:accumulate"
+       d="m -163.9470165933,-324.9999999999 34.7222222222,-2e-10 10.4166666667,2e-10"
+       id="path5214-9-3-6-0-2-0-7-7-9-9"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g10516-6-5-1-6-70-6-0-2-6-9"
+     transform="matrix(2.88,0,0,2.88,597.1674077887,1655.841406034)"
+     inkscape:export-xdpi="145.1815338135"
+     inkscape:export-ydpi="145.1815338135">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+       x="-129.2247924805"
+       y="-326.736114502"
+       id="text5200-29-1-3-2-0-9-1-2-2-1-4"><tspan
+         sodipodi:role="line"
+         x="-129.2247924805"
+         y="-326.736114502"
+         id="tspan4292-36-8-3-8-2-7"
+         style="font-size:5px;line-height:1;font-family:sans-serif">extra suffix added to Y tick values</tspan></text>
+    <path
+       sodipodi:nodetypes="ccc"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ff0000;stroke-width:0.6000000238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#Arrow1Sendu-6-2-9-1-6-9-5-7-3);enable-background:accumulate"
+       d="m -214.2942388155,-324.9999999999 85.0694444444,-2e-10 10.4166666667,2e-10"
+       id="path5214-9-3-6-0-2-0-7-7-9-9-8"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g10516-6-5-1-6-9"
+     transform="matrix(2.88,0,0,2.88,747.1674077887,1355.362188691)"
+     inkscape:export-xdpi="145.1815338135"
+     inkscape:export-ydpi="145.1815338135">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="-217.7664642334"
+       y="-326.736114502"
+       id="text5200-29-1-3-2-0-2"><tspan
+         sodipodi:role="line"
+         x="-217.7664642334"
+         y="-326.736114502"
+         id="tspan5457-0"
+         style="font-size:5px;line-height:1;font-family:sans-serif">Label of X axis</tspan></text>
+    <path
+       sodipodi:nodetypes="ccc"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ff0000;stroke-width:0.6000000238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#Arrow1Sendu-6-2-9-18);enable-background:accumulate"
+       d="m -217.7664610377,-324.9999999999 36.4583333333,-2e-10 10.4166666667,2e-10"
+       id="path5214-9-3-6-0-2-2"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g10516-6-5-1-6-70-3"
+     transform="matrix(2.88,0,0,2.88,597.1674077888,1409.383062648)"
+     inkscape:export-xdpi="145.1815338135"
+     inkscape:export-ydpi="145.1815338135">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+       x="-129.2247924805"
+       y="-326.736114502"
+       id="text5200-29-1-3-2-0-9-7"><tspan
+         sodipodi:role="line"
+         x="-129.2247924805"
+         y="-326.736114502"
+         id="tspan4292-36-5"
+         style="font-size:5px;line-height:1;font-family:sans-serif">X ticks toggle</tspan></text>
+    <path
+       sodipodi:nodetypes="ccc"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ff0000;stroke-width:0.6000000238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#Arrow1Sendu-6-2-9-1-9);enable-background:accumulate"
+       d="m -163.9470165933,-324.9999999999 34.7222222222,-2e-10 10.4166666667,2e-10"
+       id="path5214-9-3-6-0-2-0-9"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g10516-6-5-1-6-70-6-2"
+     transform="matrix(2.88,0,0,2.88,597.1674077888,1435.827520656)"
+     inkscape:export-xdpi="145.1815338135"
+     inkscape:export-ydpi="145.1815338135">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+       x="-129.2247924805"
+       y="-326.736114502"
+       id="text5200-29-1-3-2-0-9-1-28"><tspan
+         sodipodi:role="line"
+         x="-129.2247924805"
+         y="-326.736114502"
+         id="tspan4292-36-8-9"
+         style="font-size:5px;line-height:1;font-family:sans-serif">X ticks interval</tspan></text>
+    <path
+       sodipodi:nodetypes="ccc"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ff0000;stroke-width:0.6000000238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#Arrow1Sendu-6-2-9-1-6-7);enable-background:accumulate"
+       d="m -167.4192388155,-324.9999999999 38.1944444444,-2e-10 10.4166666667,2e-10"
+       id="path5214-9-3-6-0-2-0-7-73"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g10516-6-5-1-6-70-6-0-6"
+     transform="matrix(2.88,0,0,2.88,597.1674077888,1464.146978668)"
+     inkscape:export-xdpi="145.1815338135"
+     inkscape:export-ydpi="145.1815338135">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+       x="-129.2247924805"
+       y="-326.736114502"
+       id="text5200-29-1-3-2-0-9-1-2-1"><tspan
+         sodipodi:role="line"
+         x="-129.2247924805"
+         y="-326.736114502"
+         id="tspan4292-36-8-3-2"
+         style="font-size:5px;line-height:1;font-family:sans-serif">X ticks interval size in svg units</tspan></text>
+    <path
+       sodipodi:nodetypes="ccc"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ff0000;stroke-width:0.6000000238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#Arrow1Sendu-6-2-9-1-6-9-1);enable-background:accumulate"
+       d="m -209.0859054822,-324.9999999999 79.8611111111,-2e-10 10.4166666667,2e-10"
+       id="path5214-9-3-6-0-2-0-7-7-93"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g10516-6-5-1-6-70-6-0-2-6-8"
+     transform="matrix(2.88,0,0,2.88,597.1674077887,1382.93860464)"
+     inkscape:export-xdpi="145.1815338135"
+     inkscape:export-ydpi="145.1815338135">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+       x="-129.2247924805"
+       y="-326.736114502"
+       id="text5200-29-1-3-2-0-9-1-2-2-1-45"><tspan
+         sodipodi:role="line"
+         x="-129.2247924805"
+         y="-326.736114502"
+         id="tspan4292-36-8-3-8-2-0"
+         style="font-size:5px;line-height:1;font-family:sans-serif">X grid  toggle</tspan></text>
+    <path
+       sodipodi:nodetypes="ccc"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ff0000;stroke-width:0.6000000238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#Arrow1Sendu-6-2-9-1-6-9-5-7-5);enable-background:accumulate"
+       d="m -163.9470165933,-324.9999999999 34.7222222222,-2e-10 10.4166666667,2e-10"
+       id="path5214-9-3-6-0-2-0-7-7-9-9-3"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:export-ydpi="145.1815338135"
+     inkscape:export-xdpi="145.1815338135"
+     transform="matrix(2.88,0,0,2.88,597.1674077888,1629.146979092)"
+     id="g5010">
+    <text
+       id="text5006"
+       y="-326.736114502"
+       x="-129.2247924805"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:5px;line-height:1;font-family:sans-serif"
+         id="tspan5004"
+         y="-326.736114502"
+         x="-129.2247924805"
+         sodipodi:role="line">Y ticks interval size in svg units</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5008"
+       d="m -209.0859054822,-324.9999999999 79.8611111111,-2e-10 10.4166666667,2e-10"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ff0000;stroke-width:0.6000000238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#Arrow1Sendu-6-2-9-1-6-9-1);enable-background:accumulate"
+       sodipodi:nodetypes="ccc" />
+  </g>
+  <g
+     id="g5464-7"
+     transform="matrix(0.9375000024496,0,0,0.9375000024496,14.06250003668,353.5851387182)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+       x="224.9999694824"
+       y="462.3621826172"
+       id="text5200-29-1-3-2-0-5-0"><tspan
+         sodipodi:role="line"
+         x="224.9999694824"
+         y="462.3621826172"
+         id="tspan4292-3-9"
+         style="font-size:14.3999996185px;line-height:1;font-family:sans-serif">Limits of Y axis</tspan></text>
+    <path
+       sodipodi:nodetypes="cccc"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ff0000;stroke-width:1.7280000448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#Arrow1Sendu-6-2-9-3-62);enable-background:accumulate"
+       d="M 111.0000000001,467.3622047246 225,467.3622047243 239.9999999999,452.3622047244 h 15.0000000002"
+       id="path5214-9-3-6-0-2-5-3"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5214-9-3-6-0-2-5-9-6"
+       d="m 225.0000000419,467.3622047244 15,10 h 15"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ff0000;stroke-width:1.7280000448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#Arrow1Sendu-6-2-9-3-6-1);enable-background:accumulate"
+       sodipodi:nodetypes="ccc" />
+  </g>
+  <g
+     id="g10516-6-5-1-6-70-6-0-2-2-1-8"
+     transform="matrix(2.700000007055,0,0,2.700000007055,573.9069463015,1625.174708971)"
+     inkscape:export-xdpi="890.8150024414"
+     inkscape:export-ydpi="890.8150024414">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+       x="-129.2247924805"
+       y="-326.736114502"
+       id="text5200-29-1-3-2-0-9-1-2-2-54-4-9"><tspan
+         sodipodi:role="line"
+         x="-129.2247924805"
+         y="-326.736114502"
+         id="tspan4292-36-8-3-8-7-9-2"
+         style="font-size:5px;line-height:1;font-family:sans-serif">customize output range</tspan></text>
+    <path
+       sodipodi:nodetypes="ccc"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ff0000;stroke-width:0.6000000238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#Arrow1Sendu-6-2-9-1-6-9-5-4-4-0);enable-background:accumulate"
+       d="m -188.2525721489,-324.9999999999 59.0277777778,-2e-10 10.4166666667,2e-10"
+       id="path5214-9-3-6-0-2-0-7-7-9-4-2-6"
+       inkscape:connector-curvature="0" />
+  </g>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot5184"
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Verdana;font-style:normal;font-weight:normal;font-size:12.5px;line-height:20px;letter-spacing:0px;word-spacing:0px;text-anchor:end;text-align:end;-inkscape-font-specification:Verdana;font-stretch:normal;font-variant:normal;writing-mode:lr"><flowRegion
+       id="flowRegion5186"><rect
+         id="rect5188"
+         width="25"
+         height="15"
+         x="245"
+         y="792.5197143555" /></flowRegion><flowPara
+       id="flowPara5190" /></flowRoot></svg>

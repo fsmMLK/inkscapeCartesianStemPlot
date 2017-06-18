@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 793.7008056641 1122.51965332"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.92.1 unknown"
+   sodipodi:docname="Zero_sample.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1062"
+     id="namedview4"
+     showgrid="true"
+     inkscape:zoom="3.363860823428"
+     inkscape:cx="335.0648591415"
+     inkscape:cy="734.7771700878"
+     inkscape:window-x="-4"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:snap-text-baseline="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4485" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <marker
+       id="DotMDiscreteTime_n00001"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible"
+       inkscape:stockid="DotMDiscreteTime_n00001">
+      <path
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="stroke-width:1.0;stroke:#000000;fill:#000000;fill-rule:evenodd"
+         transform="scale(0.3) translate(7.4, 1)"
+         id="path4488" />
+    </marker>
+    <marker
+       inkscape:stockid="DotMDiscreteTime_n00002"
+       style="overflow:visible"
+       refY="0.0"
+       refX="0.0"
+       orient="auto"
+       id="DotMDiscreteTime_n00002">
+      <path
+         id="path4619"
+         transform="scale(0.3) translate(7.4, 1)"
+         style="stroke-width:1.0;stroke:#000000;fill:#000000;fill-rule:evenodd"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z " />
+    </marker>
+    <marker
+       id="DotMDiscreteTime_n00003"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible"
+       inkscape:stockid="DotMDiscreteTime_n00003">
+      <path
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="stroke-width:1.0;stroke:#000000;fill:#000000;fill-rule:evenodd"
+         transform="scale(0.3) translate(7.4, 1)"
+         id="path4752" />
+    </marker>
+    <marker
+       inkscape:stockid="DotMDiscreteTime_n00004"
+       style="overflow:visible"
+       refY="0.0"
+       refX="0.0"
+       orient="auto"
+       id="DotMDiscreteTime_n00004">
+      <path
+         id="path4889"
+         transform="scale(0.3) translate(7.4, 1)"
+         style="stroke-width:1.0;stroke:#000000;fill:#000000;fill-rule:evenodd"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z " />
+    </marker>
+    <marker
+       id="DotMDiscreteTime_n00005"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible"
+       inkscape:stockid="DotMDiscreteTime_n00005">
+      <path
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="stroke-width:1.0;stroke:#000000;fill:#000000;fill-rule:evenodd"
+         transform="scale(0.3) translate(7.4, 1)"
+         id="path5054" />
+    </marker>
+    <marker
+       inkscape:stockid="DotMDiscreteTime_n00006"
+       style="overflow:visible"
+       refY="0.0"
+       refX="0.0"
+       orient="auto"
+       id="DotMDiscreteTime_n00006">
+      <path
+         id="path5272"
+         transform="scale(0.3) translate(7.4, 1)"
+         style="stroke-width:1.0;stroke:#000000;fill:#000000;fill-rule:evenodd"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z " />
+    </marker>
+    <marker
+       id="DotMDiscreteTime_n00007"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible"
+       inkscape:stockid="DotMDiscreteTime_n00007">
+      <path
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="stroke-width:1.0;stroke:#000000;fill:#000000;fill-rule:evenodd"
+         transform="scale(0.3) translate(7.4, 1)"
+         id="path5482" />
+    </marker>
+    <marker
+       inkscape:stockid="DotMDiscreteTime_n00008"
+       style="overflow:visible"
+       refY="0.0"
+       refX="0.0"
+       orient="auto"
+       id="DotMDiscreteTime_n00008">
+      <path
+         id="path5742"
+         transform="scale(0.3) translate(7.4, 1)"
+         style="stroke-width:1.0;stroke:#000000;fill:#000000;fill-rule:evenodd"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z " />
+    </marker>
+    <marker
+       id="DotMDiscreteTime_n00009"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible"
+       inkscape:stockid="DotMDiscreteTime_n00009">
+      <path
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="stroke-width:1.0;stroke:#000000;fill:#000000;fill-rule:evenodd"
+         transform="scale(0.3) translate(7.4, 1)"
+         id="path9158" />
+    </marker>
+    <marker
+       inkscape:stockid="DotMDiscreteTime_n00010"
+       style="overflow:visible"
+       refY="0.0"
+       refX="0.0"
+       orient="auto"
+       id="DotMDiscreteTime_n00010">
+      <path
+         id="path9350"
+         transform="scale(0.3) translate(7.4, 1)"
+         style="stroke-width:1.0;stroke:#000000;fill:#000000;fill-rule:evenodd"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z " />
+    </marker>
+    <marker
+       id="DotMDiscreteTime_n00011"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible"
+       inkscape:stockid="DotMDiscreteTime_n00011">
+      <path
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="stroke-width:1.0;stroke:#000000;fill:#000000;fill-rule:evenodd"
+         transform="scale(0.3) translate(7.4, 1)"
+         id="path9584" />
+    </marker>
+    <marker
+       inkscape:stockid="DotMDiscreteTime_n00012"
+       style="overflow:visible"
+       refY="0.0"
+       refX="0.0"
+       orient="auto"
+       id="DotMDiscreteTime_n00012">
+      <path
+         id="path9838"
+         transform="scale(0.3) translate(7.4, 1)"
+         style="stroke-width:1.0;stroke:#000000;fill:#000000;fill-rule:evenodd"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z " />
+    </marker>
+    <marker
+       inkscape:stockid="ArrowAxisStart"
+       style="overflow:visible"
+       refY="0.0"
+       refX="0.0"
+       orient="auto"
+       id="ArrowAxisStart">
+      <path
+         id="path9841"
+         transform="scale(0.4) rotate(0) translate(8.818,0)"
+         style="stroke-width:1.0;stroke:#000000;fill:#000000;fill-rule:evenodd"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z " />
+    </marker>
+    <marker
+       inkscape:stockid="ArrowAxisEnd"
+       style="overflow:visible"
+       refY="0.0"
+       refX="0.0"
+       orient="auto"
+       id="ArrowAxisEnd">
+      <path
+         id="path9844"
+         transform="scale(0.4) rotate(180) translate(8.818,0)"
+         style="stroke-width:1.0;stroke:#000000;fill:#000000;fill-rule:evenodd"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z " />
+    </marker>
+  </defs>
+  <g
+     id="g4966"
+     inkscape:label="PlotData"
+     transform="translate(50,-22.48034667969)">
+    <g
+       id="g4952"
+       transform="translate(300,390)"
+       inkscape:label="Plot">
+      <g
+         id="g4930"
+         inkscape:label="Ticks">
+        <g
+           transform="matrix(0.443787,0,0,-0.443787,-100.25814,216.60134)"
+           ns0:preamble="/home/fernando/.config/inkscape/extensions/textextLib/basicLatexPackages.tex"
+           ns0:text=" $0$"
+           word-spacing="normal"
+           letter-spacing="normal"
+           font-size-adjust="none"
+           font-stretch="normal"
+           font-weight="normal"
+           font-variant="normal"
+           font-style="normal"
+           stroke-miterlimit="10.433"
+           xml:space="preserve"
+           id="content"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.4329996109;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><path
+             id="path4899"
+             style="fill:#000000;stroke-width:0"
+             d="m 228.01,480.41 v 0.15 0.15 l -0.01,0.15 v 0.15 l -0.01,0.15 -0.02,0.14 -0.01,0.15 -0.02,0.15 -0.02,0.14 -0.03,0.15 -0.03,0.14 -0.04,0.15 -0.04,0.14 -0.05,0.14 -0.06,0.14 -0.03,0.07 -0.03,0.07 c -0.46,0.95 -1.27,1.11 -1.69,1.11 -0.6,0 -1.32,-0.26 -1.73,-1.18 -0.32,-0.69 -0.37,-1.46 -0.37,-2.26 0,-0.74 0.04,-1.64 0.45,-2.39 0.43,-0.81 1.15,-1 1.64,-1 v 0.21 c -0.39,0 -0.98,0.25 -1.15,1.21 -0.11,0.59 -0.11,1.51 -0.11,2.09 0,0.64 0,1.29 0.08,1.83 0.18,1.18 0.93,1.27 1.18,1.27 0.33,0 0.98,-0.18 1.17,-1.16 0.1,-0.56 0.1,-1.31 0.1,-1.94 0,-0.74 0,-1.42 -0.11,-2.05 -0.15,-0.95 -0.71,-1.25 -1.16,-1.25 v 0 -0.21 c 0.54,0 1.29,0.21 1.73,1.15 0.32,0.68 0.37,1.46 0.37,2.24 z"
+             inkscape:connector-curvature="0" /></g>        <path
+           id="path4902"
+           inkscape:label="none"
+           style="fill:none;stroke:#4c4c4c;stroke-width:0.4285714328;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 10,-0.9375 v 1.875"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="matrix(0.443787,0,0,-0.443787,-90.278111,216.60134)"
+           ns0:preamble="/home/fernando/.config/inkscape/extensions/textextLib/basicLatexPackages.tex"
+           ns0:text=" $1$"
+           word-spacing="normal"
+           letter-spacing="normal"
+           font-size-adjust="none"
+           font-stretch="normal"
+           font-weight="normal"
+           font-variant="normal"
+           font-style="normal"
+           stroke-miterlimit="10.433"
+           xml:space="preserve"
+           id="g4906"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.4329996109;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><path
+             id="path4904"
+             style="fill:#000000;stroke-width:0"
+             d="m 226.36,483.59 v 0.01 0.01 0.02 0.01 0 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0 l -0.01,0.01 v 0.01 0 0.01 0.01 0.01 0.01 l -0.01,0.01 v 0.01 0.01 h -0.01 v 0.01 l -0.01,0.01 v 0 l -0.01,0.01 h -0.01 l -0.01,0.01 v 0 h -0.01 v 0 h -0.01 v 0 h -0.01 l -0.01,0.01 v 0 h -0.01 -0.01 v 0 h -0.01 -0.01 -0.01 v 0 h -0.01 -0.01 -0.01 -0.01 -0.01 -0.01 -0.01 c -0.62,-0.64 -1.49,-0.64 -1.81,-0.64 v -0.3 c 0.2,0 0.78,0 1.3,0.26 v -5.15 c 0,-0.36 -0.03,-0.48 -0.92,-0.48 h -0.32 v -0.31 c 0.35,0.04 1.21,0.04 1.61,0.04 0.4,0 1.26,0 1.61,-0.04 v 0.31 h -0.32 c -0.89,0 -0.92,0.11 -0.92,0.48 z"
+             inkscape:connector-curvature="0" /></g>        <path
+           id="path4908"
+           inkscape:label="none"
+           style="fill:none;stroke:#4c4c4c;stroke-width:0.4285714328;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 20,-0.9375 v 1.875"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="matrix(0.443787,0,0,-0.443787,-80.25814,216.60134)"
+           ns0:preamble="/home/fernando/.config/inkscape/extensions/textextLib/basicLatexPackages.tex"
+           ns0:text=" $2$"
+           word-spacing="normal"
+           letter-spacing="normal"
+           font-size-adjust="none"
+           font-stretch="normal"
+           font-weight="normal"
+           font-variant="normal"
+           font-style="normal"
+           stroke-miterlimit="10.433"
+           xml:space="preserve"
+           id="g4912"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.4329996109;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><path
+             id="path4910"
+             style="fill:#000000;stroke-width:0"
+             d="m 224.7,478 1.05,1.02 c 1.55,1.37 2.15,1.91 2.15,2.9 0,1.14 -0.9,1.93 -2.11,1.93 -1.12,0 -1.86,-0.91 -1.86,-1.8 0,-0.55 0.5,-0.55 0.53,-0.55 0.17,0 0.51,0.12 0.51,0.52 0,0.26 -0.18,0.52 -0.52,0.52 -0.08,0 -0.1,0 -0.13,-0.01 0.23,0.64 0.76,1.01 1.34,1.01 0.91,0 1.33,-0.8 1.33,-1.62 0,-0.79 -0.49,-1.58 -1.04,-2.19 l -1.91,-2.13 c -0.11,-0.11 -0.11,-0.13 -0.11,-0.37 h 3.69 l 0.28,1.73 h -0.25 c -0.05,-0.29 -0.12,-0.73 -0.22,-0.88 C 227.36,478 226.71,478 226.49,478 Z"
+             inkscape:connector-curvature="0" /></g>        <path
+           id="path4914"
+           inkscape:label="none"
+           style="fill:none;stroke:#4c4c4c;stroke-width:0.4285714328;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m -10,-0.9375 v 1.875"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="matrix(0.443787,0,0,-0.443787,-111.984472,216.60134)"
+           ns0:preamble="/home/fernando/.config/inkscape/extensions/textextLib/basicLatexPackages.tex"
+           ns0:text=" $-1$"
+           word-spacing="normal"
+           letter-spacing="normal"
+           font-size-adjust="none"
+           font-stretch="normal"
+           font-weight="normal"
+           font-variant="normal"
+           font-style="normal"
+           stroke-miterlimit="10.433"
+           xml:space="preserve"
+           id="g4920"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.4329996109;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><path
+             id="path4916"
+             style="fill:#000000;stroke-width:0"
+             d="m 229.99,479.52 h 0.03 0.03 0.03 0.02 0.01 0.02 l 0.01,0.01 h 0.02 0.01 0.02 l 0.01,0.01 h 0.01 0.02 l 0.01,0.01 0.01,0.01 h 0.01 l 0.01,0.01 0.01,0.01 h 0.01 l 0.01,0.01 0.01,0.01 v 0.01 0 l 0.01,0.01 v 0.01 0 0.01 l 0.01,0.01 v 0 0.01 0.01 0.01 0 l 0.01,0.01 v 0.01 0.01 0.01 c 0,0.2 -0.18,0.2 -0.35,0.2 h -5.38 c -0.17,0 -0.35,0 -0.35,-0.2 0,-0.2 0.18,-0.2 0.35,-0.2 z"
+             inkscape:connector-curvature="0" /><path
+             id="path4918"
+             style="fill:#000000;stroke-width:0"
+             d="m 234.11,483.59 v 0.01 0.01 0.02 0.01 0 0.01 0.01 0.01 0.01 0.01 l -0.01,0.01 v 0.01 0 0.01 0.01 0 0.01 0.01 0.01 0.01 l -0.01,0.01 v 0.01 0.01 h -0.01 v 0.01 l -0.01,0.01 v 0 l -0.01,0.01 h -0.01 l -0.01,0.01 v 0 h -0.01 v 0 h -0.01 v 0 h -0.01 l -0.01,0.01 v 0 h -0.01 -0.01 v 0 h -0.01 -0.01 -0.01 -0.01 v 0 h -0.01 -0.01 -0.01 -0.01 -0.01 -0.01 c -0.62,-0.64 -1.5,-0.64 -1.81,-0.64 v -0.3 c 0.19,0 0.78,0 1.3,0.26 v -5.15 c 0,-0.36 -0.03,-0.48 -0.92,-0.48 h -0.32 v -0.31 c 0.34,0.04 1.21,0.04 1.61,0.04 0.4,0 1.26,0 1.61,-0.04 v 0.31 h -0.32 c -0.89,0 -0.92,0.11 -0.92,0.48 z"
+             inkscape:connector-curvature="0" /></g>        <path
+           id="path4922"
+           inkscape:label="none"
+           style="fill:none;stroke:#4c4c4c;stroke-width:0.4285714328;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m -20,-0.9375 v 1.875"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="matrix(0.443787,0,0,-0.443787,-122.05104,216.60134)"
+           ns0:preamble="/home/fernando/.config/inkscape/extensions/textextLib/basicLatexPackages.tex"
+           ns0:text=" $-2$"
+           word-spacing="normal"
+           letter-spacing="normal"
+           font-size-adjust="none"
+           font-stretch="normal"
+           font-weight="normal"
+           font-variant="normal"
+           font-style="normal"
+           stroke-miterlimit="10.433"
+           xml:space="preserve"
+           id="g4928"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.4329996109;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><path
+             id="path4924"
+             style="fill:#000000;stroke-width:0"
+             d="m 229.99,479.52 h 0.03 0.03 0.03 0.02 0.01 0.02 l 0.01,0.01 h 0.02 0.01 0.02 l 0.01,0.01 h 0.01 0.02 l 0.01,0.01 0.01,0.01 h 0.01 l 0.01,0.01 0.01,0.01 h 0.01 l 0.01,0.01 0.01,0.01 v 0.01 0 l 0.01,0.01 v 0.01 0 0.01 l 0.01,0.01 v 0 0.01 0.01 0.01 0 l 0.01,0.01 v 0.01 0.01 0.01 c 0,0.2 -0.18,0.2 -0.35,0.2 h -5.38 c -0.17,0 -0.35,0 -0.35,-0.2 0,-0.2 0.18,-0.2 0.35,-0.2 z"
+             inkscape:connector-curvature="0" /><path
+             id="path4926"
+             style="fill:#000000;stroke-width:0"
+             d="m 232.45,478 1.05,1.02 c 1.55,1.37 2.15,1.91 2.15,2.9 0,1.14 -0.9,1.93 -2.11,1.93 -1.13,0 -1.86,-0.91 -1.86,-1.8 0,-0.55 0.5,-0.55 0.53,-0.55 0.17,0 0.51,0.12 0.51,0.52 0,0.26 -0.18,0.52 -0.52,0.52 -0.08,0 -0.1,0 -0.13,-0.01 0.22,0.64 0.76,1.01 1.34,1.01 0.91,0 1.33,-0.8 1.33,-1.62 0,-0.79 -0.5,-1.58 -1.04,-2.19 l -1.91,-2.13 c -0.11,-0.11 -0.11,-0.13 -0.11,-0.37 h 3.69 l 0.28,1.73 h -0.25 c -0.05,-0.29 -0.12,-0.73 -0.22,-0.88 C 235.11,478 234.45,478 234.24,478 Z"
+             inkscape:connector-curvature="0" /></g>      </g>
+      <g
+         id="g4950"
+         inkscape:label="Axis">
+        <path
+           id="path4932"
+           inkscape:label="Xaxis"
+           style="fill:none;stroke:#4c4c4c;stroke-width:0.4285714328;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowAxisEnd)"
+           d="M -20,0 H 35"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="matrix(0.554734,0,0,-0.554734,-90.35509,269.051536)"
+           ns0:preamble="/home/fernando/.config/inkscape/extensions/textextLib/basicLatexPackages.tex"
+           ns0:text=" $n$"
+           word-spacing="normal"
+           letter-spacing="normal"
+           font-size-adjust="none"
+           font-stretch="normal"
+           font-weight="normal"
+           font-variant="normal"
+           font-style="normal"
+           stroke-miterlimit="10.433"
+           xml:space="preserve"
+           id="g4936"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.4329996109;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><path
+             id="path4934"
+             style="fill:#000000;stroke-width:0"
+             d="m 224.31,477.82 v -0.01 l -0.01,-0.02 v -0.01 -0.02 l -0.01,-0.03 -0.01,-0.03 -0.01,-0.03 v -0.04 l -0.01,-0.03 -0.01,-0.03 v -0.01 l -0.01,-0.02 v -0.01 -0.02 -0.01 l -0.01,-0.01 v -0.02 -0.01 -0.01 l -0.01,-0.01 v -0.01 -0.01 -0.01 0 -0.01 -0.01 c 0,-0.18 0.14,-0.26 0.29,-0.26 0.12,0 0.29,0.07 0.37,0.27 0,0.02 0.12,0.49 0.18,0.74 l 0.22,0.89 c 0.06,0.22 0.12,0.44 0.17,0.67 0.04,0.17 0.12,0.46 0.13,0.5 0.15,0.3 0.68,1.21 1.62,1.21 0.45,0 0.54,-0.37 0.54,-0.7 0,-0.61 -0.49,-1.89 -0.65,-2.31 -0.09,-0.23 -0.1,-0.35 -0.1,-0.46 0,-0.47 0.35,-0.81 0.82,-0.81 0.93,0 1.3,1.45 1.3,1.53 0,0.1 -0.09,0.1 -0.12,0.1 -0.1,0 -0.1,-0.03 -0.15,-0.18 -0.19,-0.68 -0.52,-1.24 -1.01,-1.24 -0.17,0 -0.24,0.1 -0.24,0.33 0,0.25 0.09,0.49 0.18,0.71 0.19,0.52 0.61,1.62 0.61,2.18 0,0.67 -0.43,1.07 -1.15,1.07 -0.89,0 -1.38,-0.64 -1.55,-0.87 -0.05,0.56 -0.46,0.87 -0.92,0.87 -0.45,0 -0.64,-0.39 -0.74,-0.57 -0.16,-0.34 -0.3,-0.92 -0.3,-0.96 0,-0.1 0.1,-0.1 0.12,-0.1 0.1,0 0.11,0.01 0.17,0.23 0.17,0.7 0.37,1.18 0.73,1.18 0.19,0 0.3,-0.13 0.3,-0.46 0,-0.21 -0.03,-0.32 -0.16,-0.83 z"
+             inkscape:connector-curvature="0" /></g>        <path
+           id="path4938"
+           inkscape:label="Yaxis"
+           style="fill:none;stroke:#4c4c4c;stroke-width:0.4285714328;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowAxisEnd)"
+           d="M 0,0 V -41.25"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="matrix(0.554734,0,0,-0.554734,-122.23009,225.926536)"
+           ns0:preamble="/home/fernando/.config/inkscape/extensions/textextLib/basicLatexPackages.tex"
+           ns0:text=" $x[n]$"
+           word-spacing="normal"
+           letter-spacing="normal"
+           font-size-adjust="none"
+           font-stretch="normal"
+           font-weight="normal"
+           font-variant="normal"
+           font-style="normal"
+           stroke-miterlimit="10.433"
+           xml:space="preserve"
+           id="g4948"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.4329996109;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><path
+             id="path4940"
+             style="fill:#000000;stroke-width:0"
+             d="m 226.76,480.23 v 0.03 l 0.01,0.03 0.01,0.03 0.01,0.04 0.01,0.04 0.01,0.04 0.01,0.04 0.02,0.05 0.01,0.04 0.02,0.05 0.02,0.05 0.02,0.05 0.02,0.05 0.03,0.05 0.02,0.05 0.03,0.05 0.03,0.05 0.03,0.04 0.03,0.05 0.04,0.04 0.04,0.05 0.04,0.04 0.04,0.04 0.04,0.03 0.05,0.03 0.05,0.03 0.02,0.01 0.03,0.02 0.02,0.01 0.03,0.01 0.03,0.01 h 0.03 l 0.03,0.01 0.02,0.01 h 0.04 0.03 l 0.03,0.01 h 0.03 c 0.05,0 0.29,0 0.5,-0.13 -0.28,-0.05 -0.48,-0.3 -0.48,-0.54 0,-0.16 0.11,-0.35 0.38,-0.35 0.22,0 0.54,0.18 0.54,0.58 0,0.52 -0.59,0.66 -0.93,0.66 -0.58,0 -0.93,-0.53 -1.04,-0.76 -0.25,0.66 -0.79,0.76 -1.08,0.76 -1.03,0 -1.6,-1.29 -1.6,-1.53 0,-0.1 0.1,-0.1 0.12,-0.1 0.08,0 0.11,0.02 0.13,0.11 0.34,1.05 0.99,1.3 1.33,1.3 0.19,0 0.54,-0.09 0.54,-0.67 0,-0.31 -0.17,-0.97 -0.54,-2.36 -0.16,-0.62 -0.51,-1.04 -0.94,-1.04 -0.06,0 -0.29,0 -0.5,0.13 0.25,0.05 0.47,0.26 0.47,0.54 0,0.27 -0.22,0.35 -0.37,0.35 -0.3,0 -0.55,-0.26 -0.55,-0.58 0,-0.46 0.5,-0.65 0.94,-0.65 0.65,0 1.01,0.69 1.04,0.75 0.12,-0.37 0.48,-0.75 1.07,-0.75 1.03,0 1.6,1.28 1.6,1.53 0,0.1 -0.09,0.1 -0.12,0.1 -0.09,0 -0.11,-0.05 -0.13,-0.11 -0.33,-1.07 -1.01,-1.31 -1.33,-1.31 -0.38,0 -0.54,0.32 -0.54,0.66 0,0.22 0.06,0.44 0.17,0.87 z"
+             inkscape:connector-curvature="0" /><polygon
+             id="polygon4942"
+             style="fill:#000000;stroke-width:0"
+             points="230.3,474.75 231.66,474.75 231.66,475.15 230.7,475.15 230.7,484.29 231.66,484.29 231.66,484.68 230.3,484.68 " /><path
+             id="path4944"
+             style="fill:#000000;stroke-width:0"
+             d="m 232.77,477.82 v -0.01 l -0.01,-0.02 v -0.01 -0.02 l -0.01,-0.03 -0.01,-0.03 -0.01,-0.03 v -0.04 l -0.01,-0.03 -0.01,-0.03 v -0.01 -0.02 l -0.01,-0.01 v -0.02 -0.01 l -0.01,-0.01 v -0.02 -0.01 -0.01 l -0.01,-0.01 v -0.01 -0.01 -0.01 0 -0.01 -0.01 c 0,-0.18 0.14,-0.26 0.29,-0.26 0.12,0 0.3,0.07 0.37,0.27 0.01,0.02 0.12,0.49 0.18,0.74 l 0.22,0.89 c 0.06,0.22 0.12,0.44 0.17,0.67 0.04,0.17 0.12,0.46 0.13,0.5 0.15,0.3 0.68,1.21 1.62,1.21 0.45,0 0.54,-0.37 0.54,-0.7 0,-0.61 -0.49,-1.89 -0.65,-2.31 -0.09,-0.23 -0.09,-0.35 -0.09,-0.46 0,-0.47 0.34,-0.81 0.81,-0.81 0.94,0 1.3,1.45 1.3,1.53 0,0.1 -0.09,0.1 -0.11,0.1 -0.11,0 -0.11,-0.03 -0.16,-0.18 -0.19,-0.68 -0.52,-1.24 -1.01,-1.24 -0.17,0 -0.24,0.1 -0.24,0.33 0,0.25 0.09,0.49 0.18,0.71 0.19,0.52 0.61,1.62 0.61,2.18 0,0.67 -0.43,1.07 -1.15,1.07 -0.89,0 -1.38,-0.64 -1.55,-0.87 -0.05,0.56 -0.46,0.87 -0.91,0.87 -0.46,0 -0.65,-0.39 -0.75,-0.57 -0.16,-0.34 -0.3,-0.92 -0.3,-0.96 0,-0.1 0.1,-0.1 0.12,-0.1 0.1,0 0.11,0.01 0.17,0.23 0.17,0.7 0.37,1.18 0.73,1.18 0.2,0 0.31,-0.13 0.31,-0.46 0,-0.21 -0.03,-0.32 -0.16,-0.83 z"
+             inkscape:connector-curvature="0" /><polygon
+             id="polygon4946"
+             style="fill:#000000;stroke-width:0"
+             points="239.46,474.75 239.46,484.68 238.09,484.68 238.09,484.29 239.06,484.29 239.06,475.15 238.09,475.15 238.09,474.75 " /></g>      </g>
+    </g>
+    <g
+       id="g4964"
+       inkscape:label="StemGroup">
+      <path
+         id="path4954"
+         inkscape:label="none"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#DotMDiscreteTime_n00004)"
+         d="M 280,390 V 380"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path4956"
+         inkscape:label="none"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#DotMDiscreteTime_n00004)"
+         d="M 290,390 V 370"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path4958"
+         inkscape:label="none"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#DotMDiscreteTime_n00004)"
+         d="M 300,390 V 360"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path4960"
+         inkscape:label="none"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#DotMDiscreteTime_n00004)"
+         d="M 310,390 V 370"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path4962"
+         inkscape:label="none"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#DotMDiscreteTime_n00004)"
+         d="M 320,390 V 380"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.3333334923px;line-height:100%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="330"
+     y="387.5196533203"
+     id="text5021"><tspan
+       sodipodi:role="line"
+       id="tspan5019"
+       x="330"
+       y="387.5196533203">Zero sample: 3</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.3333334923px;line-height:100%;font-family:Verdana;-inkscape-font-specification:Verdana;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     x="330"
+     y="382.5196533203"
+     id="text5025"><tspan
+       sodipodi:role="line"
+       id="tspan5023"
+       x="330"
+       y="382.5196533203">Y values: 1 2 3 2 1</tspan></text>
+  <g
+     transform="translate(115,-2.480346679688)"
+     inkscape:label="PlotData"
+     id="g9705">
+    <g
+       inkscape:label="Plot"
+       transform="translate(330,370)"
+       id="g9691">
+      <g
+         inkscape:label="Ticks"
+         id="g9669">
+        <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.4329996109;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="g9635"
+           xml:space="preserve"
+           stroke-miterlimit="10.433"
+           font-style="normal"
+           font-variant="normal"
+           font-weight="normal"
+           font-stretch="normal"
+           font-size-adjust="none"
+           letter-spacing="normal"
+           word-spacing="normal"
+           ns0:text=" $0$"
+           ns0:preamble="/home/fernando/.config/inkscape/extensions/textextLib/basicLatexPackages.tex"
+           transform="matrix(0.443787,0,0,-0.443787,-100.25814,216.60134)"><path
+             inkscape:connector-curvature="0"
+             d="m 228.01,480.41 v 0.15 0.15 l -0.01,0.15 v 0.15 l -0.01,0.15 -0.02,0.14 -0.01,0.15 -0.02,0.15 -0.02,0.14 -0.03,0.15 -0.03,0.14 -0.04,0.15 -0.04,0.14 -0.05,0.14 -0.06,0.14 -0.03,0.07 -0.03,0.07 c -0.46,0.95 -1.27,1.11 -1.69,1.11 -0.6,0 -1.32,-0.26 -1.73,-1.18 -0.32,-0.69 -0.37,-1.46 -0.37,-2.26 0,-0.74 0.04,-1.64 0.45,-2.39 0.43,-0.81 1.15,-1 1.64,-1 v 0.21 c -0.39,0 -0.98,0.25 -1.15,1.21 -0.11,0.59 -0.11,1.51 -0.11,2.09 0,0.64 0,1.29 0.08,1.83 0.18,1.18 0.93,1.27 1.18,1.27 0.33,0 0.98,-0.18 1.17,-1.16 0.1,-0.56 0.1,-1.31 0.1,-1.94 0,-0.74 0,-1.42 -0.11,-2.05 -0.15,-0.95 -0.71,-1.25 -1.16,-1.25 v 0 -0.21 c 0.54,0 1.29,0.21 1.73,1.15 0.32,0.68 0.37,1.46 0.37,2.24 z"
+             style="fill:#000000;stroke-width:0"
+             id="path9633" /></g>        <path
+           inkscape:connector-curvature="0"
+           d="m -10,-0.9375 v 1.875"
+           style="fill:none;stroke:#4c4c4c;stroke-width:0.4285714328;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           inkscape:label="none"
+           id="path9637" />
+        <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.4329996109;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="g9643"
+           xml:space="preserve"
+           stroke-miterlimit="10.433"
+           font-style="normal"
+           font-variant="normal"
+           font-weight="normal"
+           font-stretch="normal"
+           font-size-adjust="none"
+           letter-spacing="normal"
+           word-spacing="normal"
+           ns0:text=" $-1$"
+           ns0:preamble="/home/fernando/.config/inkscape/extensions/textextLib/basicLatexPackages.tex"
+           transform="matrix(0.443787,0,0,-0.443787,-111.984472,216.60134)"><path
+             inkscape:connector-curvature="0"
+             d="m 229.99,479.52 h 0.03 0.03 0.03 0.02 0.01 0.02 l 0.01,0.01 h 0.02 0.01 0.02 l 0.01,0.01 h 0.01 0.02 l 0.01,0.01 0.01,0.01 h 0.01 l 0.01,0.01 0.01,0.01 h 0.01 l 0.01,0.01 0.01,0.01 v 0.01 0 l 0.01,0.01 v 0.01 0 0.01 l 0.01,0.01 v 0 0.01 0.01 0.01 0 l 0.01,0.01 v 0.01 0.01 0.01 c 0,0.2 -0.18,0.2 -0.35,0.2 h -5.38 c -0.17,0 -0.35,0 -0.35,-0.2 0,-0.2 0.18,-0.2 0.35,-0.2 z"
+             style="fill:#000000;stroke-width:0"
+             id="path9639" /><path
+             inkscape:connector-curvature="0"
+             d="m 234.11,483.59 v 0.01 0.01 0.02 0.01 0 0.01 0.01 0.01 0.01 0.01 l -0.01,0.01 v 0.01 0 0.01 0.01 0 0.01 0.01 0.01 0.01 l -0.01,0.01 v 0.01 0.01 h -0.01 v 0.01 l -0.01,0.01 v 0 l -0.01,0.01 h -0.01 l -0.01,0.01 v 0 h -0.01 v 0 h -0.01 v 0 h -0.01 l -0.01,0.01 v 0 h -0.01 -0.01 v 0 h -0.01 -0.01 -0.01 -0.01 v 0 h -0.01 -0.01 -0.01 -0.01 -0.01 -0.01 c -0.62,-0.64 -1.5,-0.64 -1.81,-0.64 v -0.3 c 0.19,0 0.78,0 1.3,0.26 v -5.15 c 0,-0.36 -0.03,-0.48 -0.92,-0.48 h -0.32 v -0.31 c 0.34,0.04 1.21,0.04 1.61,0.04 0.4,0 1.26,0 1.61,-0.04 v 0.31 h -0.32 c -0.89,0 -0.92,0.11 -0.92,0.48 z"
+             style="fill:#000000;stroke-width:0"
+             id="path9641" /></g>        <path
+           inkscape:connector-curvature="0"
+           d="m -20,-0.9375 v 1.875"
+           style="fill:none;stroke:#4c4c4c;stroke-width:0.4285714328;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           inkscape:label="none"
+           id="path9645" />
+        <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.4329996109;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="g9651"
+           xml:space="preserve"
+           stroke-miterlimit="10.433"
+           font-style="normal"
+           font-variant="normal"
+           font-weight="normal"
+           font-stretch="normal"
+           font-size-adjust="none"
+           letter-spacing="normal"
+           word-spacing="normal"
+           ns0:text=" $-2$"
+           ns0:preamble="/home/fernando/.config/inkscape/extensions/textextLib/basicLatexPackages.tex"
+           transform="matrix(0.443787,0,0,-0.443787,-122.05104,216.60134)"><path
+             inkscape:connector-curvature="0"
+             d="m 229.99,479.52 h 0.03 0.03 0.03 0.02 0.01 0.02 l 0.01,0.01 h 0.02 0.01 0.02 l 0.01,0.01 h 0.01 0.02 l 0.01,0.01 0.01,0.01 h 0.01 l 0.01,0.01 0.01,0.01 h 0.01 l 0.01,0.01 0.01,0.01 v 0.01 0 l 0.01,0.01 v 0.01 0 0.01 l 0.01,0.01 v 0 0.01 0.01 0.01 0 l 0.01,0.01 v 0.01 0.01 0.01 c 0,0.2 -0.18,0.2 -0.35,0.2 h -5.38 c -0.17,0 -0.35,0 -0.35,-0.2 0,-0.2 0.18,-0.2 0.35,-0.2 z"
+             style="fill:#000000;stroke-width:0"
+             id="path9647" /><path
+             inkscape:connector-curvature="0"
+             d="m 232.45,478 1.05,1.02 c 1.55,1.37 2.15,1.91 2.15,2.9 0,1.14 -0.9,1.93 -2.11,1.93 -1.13,0 -1.86,-0.91 -1.86,-1.8 0,-0.55 0.5,-0.55 0.53,-0.55 0.17,0 0.51,0.12 0.51,0.52 0,0.26 -0.18,0.52 -0.52,0.52 -0.08,0 -0.1,0 -0.13,-0.01 0.22,0.64 0.76,1.01 1.34,1.01 0.91,0 1.33,-0.8 1.33,-1.62 0,-0.79 -0.5,-1.58 -1.04,-2.19 l -1.91,-2.13 c -0.11,-0.11 -0.11,-0.13 -0.11,-0.37 h 3.69 l 0.28,1.73 h -0.25 c -0.05,-0.29 -0.12,-0.73 -0.22,-0.88 C 235.11,478 234.45,478 234.24,478 Z"
+             style="fill:#000000;stroke-width:0"
+             id="path9649" /></g>        <path
+           inkscape:connector-curvature="0"
+           d="m -30,-0.9375 v 1.875"
+           style="fill:none;stroke:#4c4c4c;stroke-width:0.4285714328;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           inkscape:label="none"
+           id="path9653" />
+        <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.4329996109;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="g9659"
+           xml:space="preserve"
+           stroke-miterlimit="10.433"
+           font-style="normal"
+           font-variant="normal"
+           font-weight="normal"
+           font-stretch="normal"
+           font-size-adjust="none"
+           letter-spacing="normal"
+           word-spacing="normal"
+           ns0:text=" $-3$"
+           ns0:preamble="/home/fernando/.config/inkscape/extensions/textextLib/basicLatexPackages.tex"
+           transform="matrix(0.443787,0,0,-0.443787,-132.068791,216.60134)"><path
+             inkscape:connector-curvature="0"
+             d="m 229.99,479.52 h 0.03 0.03 0.03 0.02 0.01 0.02 l 0.01,0.01 h 0.02 0.01 0.02 l 0.01,0.01 h 0.01 0.02 l 0.01,0.01 0.01,0.01 h 0.01 l 0.01,0.01 0.01,0.01 h 0.01 l 0.01,0.01 0.01,0.01 v 0.01 0 l 0.01,0.01 v 0.01 0 0.01 l 0.01,0.01 v 0 0.01 0.01 0.01 0 l 0.01,0.01 v 0.01 0.01 0.01 c 0,0.2 -0.18,0.2 -0.35,0.2 h -5.38 c -0.17,0 -0.35,0 -0.35,-0.2 0,-0.2 0.18,-0.2 0.35,-0.2 z"
+             style="fill:#000000;stroke-width:0"
+             id="path9655" /><path
+             inkscape:connector-curvature="0"
+             d="m 234.07,480.73 0.07,0.03 0.08,0.03 0.07,0.03 0.07,0.03 0.07,0.04 0.07,0.04 0.06,0.04 0.07,0.04 0.06,0.04 0.06,0.05 0.06,0.05 0.06,0.05 0.05,0.05 0.05,0.05 0.05,0.06 0.05,0.05 0.04,0.06 0.05,0.06 0.04,0.06 0.03,0.06 0.04,0.07 0.03,0.06 0.03,0.07 0.03,0.06 0.02,0.07 0.02,0.07 0.02,0.07 0.01,0.07 0.01,0.07 0.01,0.07 0.01,0.08 v 0.07 c 0,0.82 -0.88,1.37 -1.83,1.37 -1.01,0 -1.76,-0.59 -1.76,-1.35 0,-0.33 0.22,-0.52 0.51,-0.52 0.3,0 0.5,0.22 0.5,0.51 0,0.5 -0.47,0.5 -0.62,0.5 0.31,0.48 0.97,0.61 1.33,0.61 0.41,0 0.95,-0.22 0.95,-1.11 0,-0.12 -0.02,-0.69 -0.28,-1.13 -0.29,-0.48 -0.63,-0.51 -0.88,-0.52 -0.08,-0.01 -0.32,-0.03 -0.39,-0.03 -0.08,-0.01 -0.15,-0.02 -0.15,-0.12 0,-0.11 0.07,-0.11 0.24,-0.11 h 0.44 c 0.82,0 1.18,-0.67 1.18,-1.65 0,-1.35 -0.68,-1.63 -1.12,-1.63 -0.43,0 -1.18,0.16 -1.52,0.75 0.34,-0.05 0.65,0.17 0.65,0.55 0,0.35 -0.26,0.55 -0.55,0.55 -0.24,0 -0.56,-0.14 -0.56,-0.57 0,-0.91 0.92,-1.56 2.01,-1.56 1.21,0 2.12,0.9 2.12,1.91 0,0.82 -0.63,1.59 -1.66,1.8 z"
+             style="fill:#000000;stroke-width:0"
+             id="path9657" /></g>        <path
+           inkscape:connector-curvature="0"
+           d="m -40,-0.9375 v 1.875"
+           style="fill:none;stroke:#4c4c4c;stroke-width:0.4285714328;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           inkscape:label="none"
+           id="path9661" />
+        <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.4329996109;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="g9667"
+           xml:space="preserve"
+           stroke-miterlimit="10.433"
+           font-style="normal"
+           font-variant="normal"
+           font-weight="normal"
+           font-stretch="normal"
+           font-size-adjust="none"
+           letter-spacing="normal"
+           word-spacing="normal"
+           ns0:text=" $-4$"
+           ns0:preamble="/home/fernando/.config/inkscape/extensions/textextLib/basicLatexPackages.tex"
+           transform="matrix(0.443787,0,0,-0.443787,-142.099856,216.650157)"><path
+             inkscape:connector-curvature="0"
+             d="m 229.99,479.52 h 0.03 0.03 0.03 0.02 0.01 0.02 l 0.01,0.01 h 0.02 0.01 0.02 l 0.01,0.01 h 0.01 0.02 l 0.01,0.01 0.01,0.01 h 0.01 l 0.01,0.01 0.01,0.01 h 0.01 l 0.01,0.01 0.01,0.01 v 0.01 0 l 0.01,0.01 v 0.01 0 0.01 l 0.01,0.01 v 0 0.01 0.01 0.01 0 l 0.01,0.01 v 0.01 0.01 0.01 c 0,0.2 -0.18,0.2 -0.35,0.2 h -5.38 c -0.17,0 -0.35,0 -0.35,-0.2 0,-0.2 0.18,-0.2 0.35,-0.2 z"
+             style="fill:#000000;stroke-width:0"
+             id="path9663" /><path
+             inkscape:connector-curvature="0"
+             d="m 234.11,478.87 v -0.86 c 0,-0.36 -0.02,-0.47 -0.76,-0.47 h -0.21 v -0.31 c 0.41,0.04 0.93,0.04 1.34,0.04 0.42,0 0.95,0 1.36,-0.04 v 0.31 h -0.21 c -0.74,0 -0.76,0.11 -0.76,0.47 v 0.86 h 1 v 0.31 h -1 v 4.52 c 0,0.2 0,0.26 -0.16,0.26 -0.09,0 -0.12,0 -0.2,-0.12 l -3.05,-4.66 h 0.28 l 2.43,3.71 v -3.71 h -2.43 -0.28 v -0.31 z"
+             style="fill:#000000;stroke-width:0"
+             id="path9665" /></g>      </g>
+      <g
+         inkscape:label="Axis"
+         id="g9689">
+        <path
+           inkscape:connector-curvature="0"
+           d="M -40,0 H 15"
+           style="fill:none;stroke:#4c4c4c;stroke-width:0.4285714328;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowAxisEnd)"
+           inkscape:label="Xaxis"
+           id="path9671" />
+        <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.4329996109;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="g9675"
+           xml:space="preserve"
+           stroke-miterlimit="10.433"
+           font-style="normal"
+           font-variant="normal"
+           font-weight="normal"
+           font-stretch="normal"
+           font-size-adjust="none"
+           letter-spacing="normal"
+           word-spacing="normal"
+           ns0:text=" $n$"
+           ns0:preamble="/home/fernando/.config/inkscape/extensions/textextLib/basicLatexPackages.tex"
+           transform="matrix(0.554734,0,0,-0.554734,-110.35509,269.051536)"><path
+             inkscape:connector-curvature="0"
+             d="m 224.31,477.82 v -0.01 l -0.01,-0.02 v -0.01 -0.02 l -0.01,-0.03 -0.01,-0.03 -0.01,-0.03 v -0.04 l -0.01,-0.03 -0.01,-0.03 v -0.01 l -0.01,-0.02 v -0.01 -0.02 -0.01 l -0.01,-0.01 v -0.02 -0.01 -0.01 l -0.01,-0.01 v -0.01 -0.01 -0.01 0 -0.01 -0.01 c 0,-0.18 0.14,-0.26 0.29,-0.26 0.12,0 0.29,0.07 0.37,0.27 0,0.02 0.12,0.49 0.18,0.74 l 0.22,0.89 c 0.06,0.22 0.12,0.44 0.17,0.67 0.04,0.17 0.12,0.46 0.13,0.5 0.15,0.3 0.68,1.21 1.62,1.21 0.45,0 0.54,-0.37 0.54,-0.7 0,-0.61 -0.49,-1.89 -0.65,-2.31 -0.09,-0.23 -0.1,-0.35 -0.1,-0.46 0,-0.47 0.35,-0.81 0.82,-0.81 0.93,0 1.3,1.45 1.3,1.53 0,0.1 -0.09,0.1 -0.12,0.1 -0.1,0 -0.1,-0.03 -0.15,-0.18 -0.19,-0.68 -0.52,-1.24 -1.01,-1.24 -0.17,0 -0.24,0.1 -0.24,0.33 0,0.25 0.09,0.49 0.18,0.71 0.19,0.52 0.61,1.62 0.61,2.18 0,0.67 -0.43,1.07 -1.15,1.07 -0.89,0 -1.38,-0.64 -1.55,-0.87 -0.05,0.56 -0.46,0.87 -0.92,0.87 -0.45,0 -0.64,-0.39 -0.74,-0.57 -0.16,-0.34 -0.3,-0.92 -0.3,-0.96 0,-0.1 0.1,-0.1 0.12,-0.1 0.1,0 0.11,0.01 0.17,0.23 0.17,0.7 0.37,1.18 0.73,1.18 0.19,0 0.3,-0.13 0.3,-0.46 0,-0.21 -0.03,-0.32 -0.16,-0.83 z"
+             style="fill:#000000;stroke-width:0"
+             id="path9673" /></g>        <path
+           inkscape:connector-curvature="0"
+           d="M 0,0 V -41.25"
+           style="fill:none;stroke:#4c4c4c;stroke-width:0.4285714328;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowAxisEnd)"
+           inkscape:label="Yaxis"
+           id="path9677" />
+        <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.4329996109;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="g9687"
+           xml:space="preserve"
+           stroke-miterlimit="10.433"
+           font-style="normal"
+           font-variant="normal"
+           font-weight="normal"
+           font-stretch="normal"
+           font-size-adjust="none"
+           letter-spacing="normal"
+           word-spacing="normal"
+           ns0:text=" $x[n]$"
+           ns0:preamble="/home/fernando/.config/inkscape/extensions/textextLib/basicLatexPackages.tex"
+           transform="matrix(0.554734,0,0,-0.554734,-122.23009,225.926536)"><path
+             inkscape:connector-curvature="0"
+             d="m 226.76,480.23 v 0.03 l 0.01,0.03 0.01,0.03 0.01,0.04 0.01,0.04 0.01,0.04 0.01,0.04 0.02,0.05 0.01,0.04 0.02,0.05 0.02,0.05 0.02,0.05 0.02,0.05 0.03,0.05 0.02,0.05 0.03,0.05 0.03,0.05 0.03,0.04 0.03,0.05 0.04,0.04 0.04,0.05 0.04,0.04 0.04,0.04 0.04,0.03 0.05,0.03 0.05,0.03 0.02,0.01 0.03,0.02 0.02,0.01 0.03,0.01 0.03,0.01 h 0.03 l 0.03,0.01 0.02,0.01 h 0.04 0.03 l 0.03,0.01 h 0.03 c 0.05,0 0.29,0 0.5,-0.13 -0.28,-0.05 -0.48,-0.3 -0.48,-0.54 0,-0.16 0.11,-0.35 0.38,-0.35 0.22,0 0.54,0.18 0.54,0.58 0,0.52 -0.59,0.66 -0.93,0.66 -0.58,0 -0.93,-0.53 -1.04,-0.76 -0.25,0.66 -0.79,0.76 -1.08,0.76 -1.03,0 -1.6,-1.29 -1.6,-1.53 0,-0.1 0.1,-0.1 0.12,-0.1 0.08,0 0.11,0.02 0.13,0.11 0.34,1.05 0.99,1.3 1.33,1.3 0.19,0 0.54,-0.09 0.54,-0.67 0,-0.31 -0.17,-0.97 -0.54,-2.36 -0.16,-0.62 -0.51,-1.04 -0.94,-1.04 -0.06,0 -0.29,0 -0.5,0.13 0.25,0.05 0.47,0.26 0.47,0.54 0,0.27 -0.22,0.35 -0.37,0.35 -0.3,0 -0.55,-0.26 -0.55,-0.58 0,-0.46 0.5,-0.65 0.94,-0.65 0.65,0 1.01,0.69 1.04,0.75 0.12,-0.37 0.48,-0.75 1.07,-0.75 1.03,0 1.6,1.28 1.6,1.53 0,0.1 -0.09,0.1 -0.12,0.1 -0.09,0 -0.11,-0.05 -0.13,-0.11 -0.33,-1.07 -1.01,-1.31 -1.33,-1.31 -0.38,0 -0.54,0.32 -0.54,0.66 0,0.22 0.06,0.44 0.17,0.87 z"
+             style="fill:#000000;stroke-width:0"
+             id="path9679" /><polygon
+             points="230.7,475.15 230.7,484.29 231.66,484.29 231.66,484.68 230.3,484.68 230.3,474.75 231.66,474.75 231.66,475.15 "
+             style="fill:#000000;stroke-width:0"
+             id="polygon9681" /><path
+             inkscape:connector-curvature="0"
+             d="m 232.77,477.82 v -0.01 l -0.01,-0.02 v -0.01 -0.02 l -0.01,-0.03 -0.01,-0.03 -0.01,-0.03 v -0.04 l -0.01,-0.03 -0.01,-0.03 v -0.01 -0.02 l -0.01,-0.01 v -0.02 -0.01 l -0.01,-0.01 v -0.02 -0.01 -0.01 l -0.01,-0.01 v -0.01 -0.01 -0.01 0 -0.01 -0.01 c 0,-0.18 0.14,-0.26 0.29,-0.26 0.12,0 0.3,0.07 0.37,0.27 0.01,0.02 0.12,0.49 0.18,0.74 l 0.22,0.89 c 0.06,0.22 0.12,0.44 0.17,0.67 0.04,0.17 0.12,0.46 0.13,0.5 0.15,0.3 0.68,1.21 1.62,1.21 0.45,0 0.54,-0.37 0.54,-0.7 0,-0.61 -0.49,-1.89 -0.65,-2.31 -0.09,-0.23 -0.09,-0.35 -0.09,-0.46 0,-0.47 0.34,-0.81 0.81,-0.81 0.94,0 1.3,1.45 1.3,1.53 0,0.1 -0.09,0.1 -0.11,0.1 -0.11,0 -0.11,-0.03 -0.16,-0.18 -0.19,-0.68 -0.52,-1.24 -1.01,-1.24 -0.17,0 -0.24,0.1 -0.24,0.33 0,0.25 0.09,0.49 0.18,0.71 0.19,0.52 0.61,1.62 0.61,2.18 0,0.67 -0.43,1.07 -1.15,1.07 -0.89,0 -1.38,-0.64 -1.55,-0.87 -0.05,0.56 -0.46,0.87 -0.91,0.87 -0.46,0 -0.65,-0.39 -0.75,-0.57 -0.16,-0.34 -0.3,-0.92 -0.3,-0.96 0,-0.1 0.1,-0.1 0.12,-0.1 0.1,0 0.11,0.01 0.17,0.23 0.17,0.7 0.37,1.18 0.73,1.18 0.2,0 0.31,-0.13 0.31,-0.46 0,-0.21 -0.03,-0.32 -0.16,-0.83 z"
+             style="fill:#000000;stroke-width:0"
+             id="path9683" /><polygon
+             points="238.09,484.29 239.06,484.29 239.06,475.15 238.09,475.15 238.09,474.75 239.46,474.75 239.46,484.68 238.09,484.68 "
+             style="fill:#000000;stroke-width:0"
+             id="polygon9685" /></g>      </g>
+    </g>
+    <g
+       inkscape:label="StemGroup"
+       id="g9703">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 290,370 V 360"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#DotMDiscreteTime_n00011)"
+         inkscape:label="none"
+         id="path9693" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 300,370 V 350"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#DotMDiscreteTime_n00011)"
+         inkscape:label="none"
+         id="path9695" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 310,370 V 340"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#DotMDiscreteTime_n00011)"
+         inkscape:label="none"
+         id="path9697" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 320,370 V 350"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#DotMDiscreteTime_n00011)"
+         inkscape:label="none"
+         id="path9699" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 330,370 V 360"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#DotMDiscreteTime_n00011)"
+         inkscape:label="none"
+         id="path9701" />
+    </g>
+  </g>
+  <g
+     id="g9988"
+     inkscape:label="PlotData"
+     transform="translate(-80,-2.480346679688)">
+    <g
+       id="g9974"
+       transform="translate(330,370)"
+       inkscape:label="Plot">
+      <g
+         id="g9952"
+         inkscape:label="Ticks">
+        <g
+           transform="matrix(0.443787,0,0,-0.443787,-100.25814,216.60134)"
+           ns0:preamble="/home/fernando/.config/inkscape/extensions/textextLib/basicLatexPackages.tex"
+           ns0:text=" $0$"
+           word-spacing="normal"
+           letter-spacing="normal"
+           font-size-adjust="none"
+           font-stretch="normal"
+           font-weight="normal"
+           font-variant="normal"
+           font-style="normal"
+           stroke-miterlimit="10.433"
+           xml:space="preserve"
+           id="g9926"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.4329996109;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><path
+             id="path9924"
+             style="fill:#000000;stroke-width:0"
+             d="m 228.01,480.41 v 0.15 0.15 l -0.01,0.15 v 0.15 l -0.01,0.15 -0.02,0.14 -0.01,0.15 -0.02,0.15 -0.02,0.14 -0.03,0.15 -0.03,0.14 -0.04,0.15 -0.04,0.14 -0.05,0.14 -0.06,0.14 -0.03,0.07 -0.03,0.07 c -0.46,0.95 -1.27,1.11 -1.69,1.11 -0.6,0 -1.32,-0.26 -1.73,-1.18 -0.32,-0.69 -0.37,-1.46 -0.37,-2.26 0,-0.74 0.04,-1.64 0.45,-2.39 0.43,-0.81 1.15,-1 1.64,-1 v 0.21 c -0.39,0 -0.98,0.25 -1.15,1.21 -0.11,0.59 -0.11,1.51 -0.11,2.09 0,0.64 0,1.29 0.08,1.83 0.18,1.18 0.93,1.27 1.18,1.27 0.33,0 0.98,-0.18 1.17,-1.16 0.1,-0.56 0.1,-1.31 0.1,-1.94 0,-0.74 0,-1.42 -0.11,-2.05 -0.15,-0.95 -0.71,-1.25 -1.16,-1.25 v 0 -0.21 c 0.54,0 1.29,0.21 1.73,1.15 0.32,0.68 0.37,1.46 0.37,2.24 z"
+             inkscape:connector-curvature="0" /></g>        <path
+           id="path9928"
+           inkscape:label="none"
+           style="fill:none;stroke:#4c4c4c;stroke-width:0.4285714328;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 10,-0.9375 v 1.875"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="matrix(0.443787,0,0,-0.443787,-90.278111,216.60134)"
+           ns0:preamble="/home/fernando/.config/inkscape/extensions/textextLib/basicLatexPackages.tex"
+           ns0:text=" $1$"
+           word-spacing="normal"
+           letter-spacing="normal"
+           font-size-adjust="none"
+           font-stretch="normal"
+           font-weight="normal"
+           font-variant="normal"
+           font-style="normal"
+           stroke-miterlimit="10.433"
+           xml:space="preserve"
+           id="g9932"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.4329996109;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><path
+             id="path9930"
+             style="fill:#000000;stroke-width:0"
+             d="m 226.36,483.59 v 0.01 0.01 0.02 0.01 0 0.01 0.01 0.01 0.01 0.01 0.01 0.01 0 l -0.01,0.01 v 0.01 0 0.01 0.01 0.01 0.01 l -0.01,0.01 v 0.01 0.01 h -0.01 v 0.01 l -0.01,0.01 v 0 l -0.01,0.01 h -0.01 l -0.01,0.01 v 0 h -0.01 v 0 h -0.01 v 0 h -0.01 l -0.01,0.01 v 0 h -0.01 -0.01 v 0 h -0.01 -0.01 -0.01 v 0 h -0.01 -0.01 -0.01 -0.01 -0.01 -0.01 -0.01 c -0.62,-0.64 -1.49,-0.64 -1.81,-0.64 v -0.3 c 0.2,0 0.78,0 1.3,0.26 v -5.15 c 0,-0.36 -0.03,-0.48 -0.92,-0.48 h -0.32 v -0.31 c 0.35,0.04 1.21,0.04 1.61,0.04 0.4,0 1.26,0 1.61,-0.04 v 0.31 h -0.32 c -0.89,0 -0.92,0.11 -0.92,0.48 z"
+             inkscape:connector-curvature="0" /></g>        <path
+           id="path9934"
+           inkscape:label="none"
+           style="fill:none;stroke:#4c4c4c;stroke-width:0.4285714328;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 20,-0.9375 v 1.875"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="matrix(0.443787,0,0,-0.443787,-80.25814,216.60134)"
+           ns0:preamble="/home/fernando/.config/inkscape/extensions/textextLib/basicLatexPackages.tex"
+           ns0:text=" $2$"
+           word-spacing="normal"
+           letter-spacing="normal"
+           font-size-adjust="none"
+           font-stretch="normal"
+           font-weight="normal"
+           font-variant="normal"
+           font-style="normal"
+           stroke-miterlimit="10.433"
+           xml:space="preserve"
+           id="g9938"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.4329996109;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><path
+             id="path9936"
+             style="fill:#000000;stroke-width:0"
+             d="m 224.7,478 1.05,1.02 c 1.55,1.37 2.15,1.91 2.15,2.9 0,1.14 -0.9,1.93 -2.11,1.93 -1.12,0 -1.86,-0.91 -1.86,-1.8 0,-0.55 0.5,-0.55 0.53,-0.55 0.17,0 0.51,0.12 0.51,0.52 0,0.26 -0.18,0.52 -0.52,0.52 -0.08,0 -0.1,0 -0.13,-0.01 0.23,0.64 0.76,1.01 1.34,1.01 0.91,0 1.33,-0.8 1.33,-1.62 0,-0.79 -0.49,-1.58 -1.04,-2.19 l -1.91,-2.13 c -0.11,-0.11 -0.11,-0.13 -0.11,-0.37 h 3.69 l 0.28,1.73 h -0.25 c -0.05,-0.29 -0.12,-0.73 -0.22,-0.88 C 227.36,478 226.71,478 226.49,478 Z"
+             inkscape:connector-curvature="0" /></g>        <path
+           id="path9940"
+           inkscape:label="none"
+           style="fill:none;stroke:#4c4c4c;stroke-width:0.4285714328;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 30,-0.9375 v 1.875"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="matrix(0.443787,0,0,-0.443787,-70.25814,216.60134)"
+           ns0:preamble="/home/fernando/.config/inkscape/extensions/textextLib/basicLatexPackages.tex"
+           ns0:text=" $3$"
+           word-spacing="normal"
+           letter-spacing="normal"
+           font-size-adjust="none"
+           font-stretch="normal"
+           font-weight="normal"
+           font-variant="normal"
+           font-style="normal"
+           stroke-miterlimit="10.433"
+           xml:space="preserve"
+           id="g9944"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.4329996109;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><path
+             id="path9942"
+             style="fill:#000000;stroke-width:0"
+             d="m 226.32,480.73 0.07,0.03 0.08,0.03 0.07,0.03 0.07,0.03 0.07,0.04 0.07,0.04 0.06,0.04 0.07,0.04 0.06,0.04 0.06,0.05 0.06,0.05 0.06,0.05 0.05,0.05 0.05,0.05 0.05,0.06 0.05,0.05 0.04,0.06 0.05,0.06 0.04,0.06 0.03,0.06 0.04,0.07 0.03,0.06 0.03,0.07 0.03,0.06 0.02,0.07 0.02,0.07 0.02,0.07 0.01,0.07 0.02,0.07 v 0.07 l 0.01,0.08 v 0.07 c 0,0.82 -0.87,1.37 -1.83,1.37 -1,0 -1.76,-0.59 -1.76,-1.35 0,-0.33 0.22,-0.52 0.51,-0.52 0.3,0 0.5,0.22 0.5,0.51 0,0.5 -0.46,0.5 -0.61,0.5 0.3,0.48 0.96,0.61 1.32,0.61 0.41,0 0.95,-0.22 0.95,-1.11 0,-0.12 -0.02,-0.69 -0.27,-1.13 -0.3,-0.48 -0.64,-0.51 -0.89,-0.52 -0.08,-0.01 -0.32,-0.03 -0.39,-0.03 -0.08,-0.01 -0.15,-0.02 -0.15,-0.12 0,-0.11 0.07,-0.11 0.24,-0.11 h 0.44 c 0.82,0 1.18,-0.67 1.18,-1.65 0,-1.35 -0.68,-1.63 -1.12,-1.63 -0.43,0 -1.17,0.16 -1.52,0.75 0.35,-0.05 0.65,0.17 0.65,0.55 0,0.35 -0.26,0.55 -0.55,0.55 -0.24,0 -0.56,-0.14 -0.56,-0.57 0,-0.91 0.92,-1.56 2.01,-1.56 1.21,0 2.12,0.9 2.12,1.91 0,0.82 -0.63,1.59 -1.66,1.8 z"
+             inkscape:connector-curvature="0" /></g>        <path
+           id="path9946"
+           inkscape:label="none"
+           style="fill:none;stroke:#4c4c4c;stroke-width:0.4285714328;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 40,-0.9375 v 1.875"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="matrix(0.443787,0,0,-0.443787,-60.25814,216.650157)"
+           ns0:preamble="/home/fernando/.config/inkscape/extensions/textextLib/basicLatexPackages.tex"
+           ns0:text=" $4$"
+           word-spacing="normal"
+           letter-spacing="normal"
+           font-size-adjust="none"
+           font-stretch="normal"
+           font-weight="normal"
+           font-variant="normal"
+           font-style="normal"
+           stroke-miterlimit="10.433"
+           xml:space="preserve"
+           id="g9950"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.4329996109;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><path
+             id="path9948"
+             style="fill:#000000;stroke-width:0"
+             d="m 226.36,478.87 v -0.86 c 0,-0.36 -0.02,-0.47 -0.76,-0.47 h -0.21 v -0.31 c 0.41,0.04 0.93,0.04 1.35,0.04 0.41,0 0.94,0 1.35,-0.04 v 0.31 h -0.21 c -0.74,0 -0.76,0.11 -0.76,0.47 v 0.86 h 1 v 0.31 h -1 v 4.52 c 0,0.2 0,0.26 -0.16,0.26 -0.09,0 -0.11,0 -0.2,-0.12 l -3.05,-4.66 h 0.28 l 2.43,3.71 v -3.71 h -2.43 -0.28 v -0.31 z"
+             inkscape:connector-curvature="0" /></g>      </g>
+      <g
+         id="g9972"
+         inkscape:label="Axis">
+        <path
+           id="path9954"
+           inkscape:label="Xaxis"
+           style="fill:none;stroke:#4c4c4c;stroke-width:0.4285714328;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowAxisEnd)"
+           d="M 0,0 H 55"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="matrix(0.554734,0,0,-0.554734,-70.35509,269.051536)"
+           ns0:preamble="/home/fernando/.config/inkscape/extensions/textextLib/basicLatexPackages.tex"
+           ns0:text=" $n$"
+           word-spacing="normal"
+           letter-spacing="normal"
+           font-size-adjust="none"
+           font-stretch="normal"
+           font-weight="normal"
+           font-variant="normal"
+           font-style="normal"
+           stroke-miterlimit="10.433"
+           xml:space="preserve"
+           id="g9958"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.4329996109;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><path
+             id="path9956"
+             style="fill:#000000;stroke-width:0"
+             d="m 224.31,477.82 v -0.01 l -0.01,-0.02 v -0.01 -0.02 l -0.01,-0.03 -0.01,-0.03 -0.01,-0.03 v -0.04 l -0.01,-0.03 -0.01,-0.03 v -0.01 l -0.01,-0.02 v -0.01 -0.02 -0.01 l -0.01,-0.01 v -0.02 -0.01 -0.01 l -0.01,-0.01 v -0.01 -0.01 -0.01 0 -0.01 -0.01 c 0,-0.18 0.14,-0.26 0.29,-0.26 0.12,0 0.29,0.07 0.37,0.27 0,0.02 0.12,0.49 0.18,0.74 l 0.22,0.89 c 0.06,0.22 0.12,0.44 0.17,0.67 0.04,0.17 0.12,0.46 0.13,0.5 0.15,0.3 0.68,1.21 1.62,1.21 0.45,0 0.54,-0.37 0.54,-0.7 0,-0.61 -0.49,-1.89 -0.65,-2.31 -0.09,-0.23 -0.1,-0.35 -0.1,-0.46 0,-0.47 0.35,-0.81 0.82,-0.81 0.93,0 1.3,1.45 1.3,1.53 0,0.1 -0.09,0.1 -0.12,0.1 -0.1,0 -0.1,-0.03 -0.15,-0.18 -0.19,-0.68 -0.52,-1.24 -1.01,-1.24 -0.17,0 -0.24,0.1 -0.24,0.33 0,0.25 0.09,0.49 0.18,0.71 0.19,0.52 0.61,1.62 0.61,2.18 0,0.67 -0.43,1.07 -1.15,1.07 -0.89,0 -1.38,-0.64 -1.55,-0.87 -0.05,0.56 -0.46,0.87 -0.92,0.87 -0.45,0 -0.64,-0.39 -0.74,-0.57 -0.16,-0.34 -0.3,-0.92 -0.3,-0.96 0,-0.1 0.1,-0.1 0.12,-0.1 0.1,0 0.11,0.01 0.17,0.23 0.17,0.7 0.37,1.18 0.73,1.18 0.19,0 0.3,-0.13 0.3,-0.46 0,-0.21 -0.03,-0.32 -0.16,-0.83 z"
+             inkscape:connector-curvature="0" /></g>        <path
+           id="path9960"
+           inkscape:label="Yaxis"
+           style="fill:none;stroke:#4c4c4c;stroke-width:0.4285714328;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowAxisEnd)"
+           d="M 0,0 V -41.25"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="matrix(0.554734,0,0,-0.554734,-122.23009,225.926536)"
+           ns0:preamble="/home/fernando/.config/inkscape/extensions/textextLib/basicLatexPackages.tex"
+           ns0:text=" $x[n]$"
+           word-spacing="normal"
+           letter-spacing="normal"
+           font-size-adjust="none"
+           font-stretch="normal"
+           font-weight="normal"
+           font-variant="normal"
+           font-style="normal"
+           stroke-miterlimit="10.433"
+           xml:space="preserve"
+           id="g9970"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.4329996109;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><path
+             id="path9962"
+             style="fill:#000000;stroke-width:0"
+             d="m 226.76,480.23 v 0.03 l 0.01,0.03 0.01,0.03 0.01,0.04 0.01,0.04 0.01,0.04 0.01,0.04 0.02,0.05 0.01,0.04 0.02,0.05 0.02,0.05 0.02,0.05 0.02,0.05 0.03,0.05 0.02,0.05 0.03,0.05 0.03,0.05 0.03,0.04 0.03,0.05 0.04,0.04 0.04,0.05 0.04,0.04 0.04,0.04 0.04,0.03 0.05,0.03 0.05,0.03 0.02,0.01 0.03,0.02 0.02,0.01 0.03,0.01 0.03,0.01 h 0.03 l 0.03,0.01 0.02,0.01 h 0.04 0.03 l 0.03,0.01 h 0.03 c 0.05,0 0.29,0 0.5,-0.13 -0.28,-0.05 -0.48,-0.3 -0.48,-0.54 0,-0.16 0.11,-0.35 0.38,-0.35 0.22,0 0.54,0.18 0.54,0.58 0,0.52 -0.59,0.66 -0.93,0.66 -0.58,0 -0.93,-0.53 -1.04,-0.76 -0.25,0.66 -0.79,0.76 -1.08,0.76 -1.03,0 -1.6,-1.29 -1.6,-1.53 0,-0.1 0.1,-0.1 0.12,-0.1 0.08,0 0.11,0.02 0.13,0.11 0.34,1.05 0.99,1.3 1.33,1.3 0.19,0 0.54,-0.09 0.54,-0.67 0,-0.31 -0.17,-0.97 -0.54,-2.36 -0.16,-0.62 -0.51,-1.04 -0.94,-1.04 -0.06,0 -0.29,0 -0.5,0.13 0.25,0.05 0.47,0.26 0.47,0.54 0,0.27 -0.22,0.35 -0.37,0.35 -0.3,0 -0.55,-0.26 -0.55,-0.58 0,-0.46 0.5,-0.65 0.94,-0.65 0.65,0 1.01,0.69 1.04,0.75 0.12,-0.37 0.48,-0.75 1.07,-0.75 1.03,0 1.6,1.28 1.6,1.53 0,0.1 -0.09,0.1 -0.12,0.1 -0.09,0 -0.11,-0.05 -0.13,-0.11 -0.33,-1.07 -1.01,-1.31 -1.33,-1.31 -0.38,0 -0.54,0.32 -0.54,0.66 0,0.22 0.06,0.44 0.17,0.87 z"
+             inkscape:connector-curvature="0" /><polygon
+             id="polygon9964"
+             style="fill:#000000;stroke-width:0"
+             points="231.66,484.29 231.66,484.68 230.3,484.68 230.3,474.75 231.66,474.75 231.66,475.15 230.7,475.15 230.7,484.29 " /><path
+             id="path9966"
+             style="fill:#000000;stroke-width:0"
+             d="m 232.77,477.82 v -0.01 l -0.01,-0.02 v -0.01 -0.02 l -0.01,-0.03 -0.01,-0.03 -0.01,-0.03 v -0.04 l -0.01,-0.03 -0.01,-0.03 v -0.01 -0.02 l -0.01,-0.01 v -0.02 -0.01 l -0.01,-0.01 v -0.02 -0.01 -0.01 l -0.01,-0.01 v -0.01 -0.01 -0.01 0 -0.01 -0.01 c 0,-0.18 0.14,-0.26 0.29,-0.26 0.12,0 0.3,0.07 0.37,0.27 0.01,0.02 0.12,0.49 0.18,0.74 l 0.22,0.89 c 0.06,0.22 0.12,0.44 0.17,0.67 0.04,0.17 0.12,0.46 0.13,0.5 0.15,0.3 0.68,1.21 1.62,1.21 0.45,0 0.54,-0.37 0.54,-0.7 0,-0.61 -0.49,-1.89 -0.65,-2.31 -0.09,-0.23 -0.09,-0.35 -0.09,-0.46 0,-0.47 0.34,-0.81 0.81,-0.81 0.94,0 1.3,1.45 1.3,1.53 0,0.1 -0.09,0.1 -0.11,0.1 -0.11,0 -0.11,-0.03 -0.16,-0.18 -0.19,-0.68 -0.52,-1.24 -1.01,-1.24 -0.17,0 -0.24,0.1 -0.24,0.33 0,0.25 0.09,0.49 0.18,0.71 0.19,0.52 0.61,1.62 0.61,2.18 0,0.67 -0.43,1.07 -1.15,1.07 -0.89,0 -1.38,-0.64 -1.55,-0.87 -0.05,0.56 -0.46,0.87 -0.91,0.87 -0.46,0 -0.65,-0.39 -0.75,-0.57 -0.16,-0.34 -0.3,-0.92 -0.3,-0.96 0,-0.1 0.1,-0.1 0.12,-0.1 0.1,0 0.11,0.01 0.17,0.23 0.17,0.7 0.37,1.18 0.73,1.18 0.2,0 0.31,-0.13 0.31,-0.46 0,-0.21 -0.03,-0.32 -0.16,-0.83 z"
+             inkscape:connector-curvature="0" /><polygon
+             id="polygon9968"
+             style="fill:#000000;stroke-width:0"
+             points="239.06,475.15 238.09,475.15 238.09,474.75 239.46,474.75 239.46,484.68 238.09,484.68 238.09,484.29 239.06,484.29 " /></g>      </g>
+    </g>
+    <g
+       id="g9986"
+       inkscape:label="StemGroup">
+      <path
+         id="path9976"
+         inkscape:label="none"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#DotMDiscreteTime_n00012)"
+         d="M 330,370 V 360"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path9978"
+         inkscape:label="none"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#DotMDiscreteTime_n00012)"
+         d="M 340,370 V 350"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path9980"
+         inkscape:label="none"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#DotMDiscreteTime_n00012)"
+         d="M 350,370 V 340"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path9982"
+         inkscape:label="none"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#DotMDiscreteTime_n00012)"
+         d="M 360,370 V 350"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path9984"
+         inkscape:label="none"
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#DotMDiscreteTime_n00012)"
+         d="M 370,370 V 360"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.3333334923px;line-height:100%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="405"
+     y="387.5196533203"
+     id="text5021-7"><tspan
+       sodipodi:role="line"
+       id="tspan5019-5"
+       x="405"
+       y="387.5196533203">Zero sample: 5</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.3333334923px;line-height:100%;font-family:Verdana;-inkscape-font-specification:Verdana;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     x="405"
+     y="382.5196533203"
+     id="text5025-3"><tspan
+       sodipodi:role="line"
+       id="tspan5023-5"
+       x="405"
+       y="382.5196533203">Y values: 1 2 3 2 1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.3333334923px;line-height:100%;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="250"
+     y="387.5196533203"
+     id="text5021-6"><tspan
+       sodipodi:role="line"
+       id="tspan5019-2"
+       x="250"
+       y="387.5196533203">Zero sample: 1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.3333334923px;line-height:100%;font-family:Verdana;-inkscape-font-specification:Verdana;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     x="250"
+     y="382.5196533203"
+     id="text5025-9"><tspan
+       sodipodi:role="line"
+       id="tspan5023-1"
+       x="250"
+       y="382.5196533203">Y values: 1 2 3 2 1</tspan></text>
+</svg>

@@ -55,6 +55,8 @@ Please refer to <https://fsmmlk.github.io/inkscapeMadeEasy/#installation-and-req
 
 # Usage
 
+The extension can be found under `extensions > fsmMLK > Plot 2D > Cartesian` menu.
+
 This extension is presented in three tabs, **General Config**, **Axes configuration** and **Colors**. The first is used to pass the data set and provide general configuration options. The second is used to configure the axes and the third to set colors.
 
 ### The General Config tab

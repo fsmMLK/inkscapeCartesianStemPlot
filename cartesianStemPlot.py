@@ -30,6 +30,25 @@ import numpy
 import os
 import StringIO
 
+
+# heaviside function
+def u(x):
+    if x < 0:
+        return 0.0
+    else:
+        return 1.0
+
+
+# rectangular Pulse
+def rectPulse(x, amplitude=1.0, length=1.0, offset=0.0, delay=0.0):
+    return amplitude * (u(x - delay) - u(x - length - delay)) + offset
+
+
+# square wave, with amplitude -A/2 to A/2, and given period
+def squareWave(x, amplitude=1.0, offset=0, period=1.0, delay=0.0):
+    return rectPulse((x % period), amplitude, period / 2.0, offset=-amplitude / 2.0 + offset, delay=delay)
+
+
 #---------------------------------------------
 class DiscretePlot(inkBase.inkscapeMadeEasy):
   def __init__(self):

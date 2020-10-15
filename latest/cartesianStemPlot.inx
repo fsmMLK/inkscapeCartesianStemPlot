@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+    <name>Stem plot</name>
+    <id>fsmMLK.cartesianStemPlot</id>
+    <dependency type="executable" location="inx">cartesianStemPlot.py</dependency>
+    <dependency type="executable" location="extensions">inkscapeMadeEasy/inkscapeMadeEasy_Base.py</dependency>
+    <dependency type="executable" location="extensions">inkscapeMadeEasy/inkscapeMadeEasy_Draw.py</dependency>
+    <dependency type="executable" location="extensions">inkscapeMadeEasy/inkscapeMadeEasy_Plot.py</dependency>
+    <param name="tab" type="notebook">
+        <page name="Cartesian plot" appearance="minimal" gui-text="Dataset">
+            <hbox>
+                <vbox>
+                    <label appearance="header">File dataset</label>
+                    <param name="filePath" type="path" gui-text="File:" mode="file" filetypes="txt,csv"/>
+                    <param name="charSeparator" type="string" gui-text="Delimiter character:"></param>
+                    <hbox>
+                        <param name="skipHeader" type="bool" gui-text="Skip header lines. Num lines:">false</param>
+                        <param name="headerSize" type="int" min="1" max="1000" gui-text="">0</param>
+                    </hbox>
+                    <label appearance="header">Manual dataset</label>
+                    <label>Use spaces or commas to separate values</label>
+                    <param name="Values" type="string" gui-text="Y values:">0 0.5 1.0 0.5 0.0</param>
+                    <label appearance="header">Ranges</label>
+                    <param name="ZeroPoint" type="int" min="1" max="100" gui-text="Zero sample">2</param>
+                    <param name="yLimitsFlag" type="bool" gui-text="Use custom output range (clip Y data)">false</param>
+                    <hbox>
+                        <param name="yMin" type="float" min="-100000" precision="3" max="100000" gui-text="Y limits:">-1</param>
+                        <param name="yMax" type="float" min="-100000" precision="3" max="100000" gui-text="">1</param>
+                    </hbox>
+                </vbox>
+            </hbox>
+        </page>
+        <page name="Axes configuration" appearance="minimal" gui-text="Config">
+            <hbox>
+                <vbox>
+                    <label appearance="header">General config</label>
+                    <param name="useElipsis" type="bool" gui-text="Use ellipsis marks at the ends">false</param>
+                    <param name="drawAxis" type="bool" gui-text="Draw cartesian plane for each dataset">true</param>
+                    <param name="generalAspectFactor" type="float" precision="2" min="0.01" max="100" gui-text="General aspect factor (default: 1.0):">1</param>
+                    <param name="stemAspectFactor" type="float" min="0.1" max="5" gui-text="Stem aspect factor (default: 1.0)">1</param>
+                    <label appearance="header">Axes</label>
+                    <param name="subtab_axis" type="notebook">
+                        <page name="Xaxis" appearance="minimal" gui-text="X axis">
+                            <param name="xLabel" type="string" gui-text="Label:">$n$</param>
+                            <hbox>
+                                <vbox>
+                                    <param name="xGrid" type="bool" gui-text="Add grid">true</param>
+                                    <param name="xTicks" type="bool" gui-text="Add ticks">true</param>
+                                </vbox>
+                                <spacer/>
+                                <separator/>
+                                <spacer/>
+                                <vbox>
+                                    <param name="xTickStep" type="float" min="0" max="2000" precision="3" gui-text="Tick step²:">1</param>
+                                    <param name="xScale" type="float" min="5" max="2000" precision="1" gui-text="Tick length³:">50</param>
+                                    <param name="xExtraText" type="string" gui-text="Tick sufix¹:"></param>
+                                </vbox>
+                            </hbox>
+                        </page>
+                        <page name="Yaxis" appearance="minimal" gui-text="Y axis">
+                            <param name="yLabel" type="string" gui-text="Label:">$y[n]$</param>
+                            <hbox>
+                                <vbox>
+                                    <param name="yGrid" type="bool" gui-text="Add grid">true</param>
+                                    <param name="yTicks" type="bool" gui-text="Add ticks">true</param>
+                                </vbox>
+                                <spacer/>
+                                <separator/>
+                                <spacer/>
+                                <vbox>
+                                    <param name="yTickStep" type="float" min="0" max="2000" precision="3" gui-text="Tick step²:">1</param>
+                                    <param name="yScale" type="float" min="5" max="2000" precision="1" gui-text="Tick length³:">50</param>
+                                    <param name="yExtraText" type="string" gui-text="Tick sufix¹:"></param>
+                                </vbox>
+                            </hbox>
+                        </page>
+                    </param>
+                    <label appearance="header">Colors</label>
+                    <hbox>
+                        <param name="markColor" type="optiongroup" appearance="combo" gui-text="Marker:">
+                            <option value="black">black</option>
+                            <option value="none">none</option>
+                            <option value="red">red</option>
+                            <option value="blue">blue</option>
+                            <option value="yellow">yellow</option>
+                            <option value="green">green</option>
+                            <option value="magen">magenta</option>
+                            <option value="white">white</option>
+                            <option value="Lred">Lred</option>
+                            <option value="Lblue">Lblue</option>
+                            <option value="Lyellow">Lyellow</option>
+                            <option value="Lgreen">Lgreen</option>
+                            <option value="Lmagen">Lmagenta</option>
+                            <option value="Dred">Dred</option>
+                            <option value="Dblue">Dblue</option>
+                            <option value="Dyellow">Dyellow</option>
+                            <option value="Dgreen">Dgreen</option>
+                            <option value="Dmagen">Dmagenta</option>
+                            <option value="picker">use color picker --></option>
+                        </param>
+                        <param name="colorPickerMark" type="color" appearance="colorbutton" gui-text=""/>
+                    </hbox>
+                    <hbox>
+                        <param name="lineColor" type="optiongroup" appearance="combo" gui-text="Stroke:">
+                            <option value="black">black</option>
+                            <option value="none">none</option>
+                            <option value="red">red</option>
+                            <option value="blue">blue</option>
+                            <option value="yellow">yellow</option>
+                            <option value="green">green</option>
+                            <option value="magen">magenta</option>
+                            <option value="white">white</option>
+                            <option value="Lred">Lred</option>
+                            <option value="Lblue">Lblue</option>
+                            <option value="Lyellow">Lyellow</option>
+                            <option value="Lgreen">Lgreen</option>
+                            <option value="Lmagen">Lmagenta</option>
+                            <option value="Dred">Dred</option>
+                            <option value="Dblue">Dblue</option>
+                            <option value="Dyellow">Dyellow</option>
+                            <option value="Dgreen">Dgreen</option>
+                            <option value="Dmagen">Dmagenta</option>
+                            <option value="picker">use color picker --></option>
+                        </param>
+                        <param name="colorPickerLine" type="color" appearance="colorbutton" gui-text=""/>
+                    </hbox>
+                </vbox>
+            </hbox>
+            <label>¹ LaTeX: text will be in inline math mode $...$.</label>
+            <label>² linear axis only</label>
+            <label>³ or the length of 1 decade in log scale</label>
+        </page>
+        <page name="Help" gui-text="Help">
+            <param name="subTab_help" type="notebook">
+                <page name="PyhtonHelp" gui-text="Data help">
+                    <label>You can either provide the values manually</label>
+                    <label>or via a text file containing a table of values.</label>
+                    <label>Each line is a sample and each column a different signal.</label>
+                    <spacer/>
+                    <label>If the file has multiple columns, the extension will</label>
+                    <label>create a plot for each column.</label>
+                    <spacer/>
+                    <label>You can use any character to separate columns</label>
+                    <label>in your file, except:</label>
+                    <label>`.` (dot), `+` (plus), `-`(minus), `E`, `e`</label>
+                </page>
+                <page name="About" gui-text="About">
+                    <label>For details please refer to</label>
+                    <label appearance="url">https://github.com/fsmMLK/inkscapeCartesianStemPlot</label>
+                </page>
+            </param>
+        </page>
+    </param>
+    <effect>
+        <object-type>all</object-type>
+        <effects-menu>
+            <submenu name="fsmMLK">
+                <submenu name="Plot 2D">
+                    <submenu name="Cartesian"/>
+                </submenu>
+            </submenu>
+        </effects-menu>
+    </effect>
+    <script>
+        <command location="inx" interpreter="python">cartesianStemPlot.py</command>
+    </script>
+</inkscape-extension>

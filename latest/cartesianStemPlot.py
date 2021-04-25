@@ -163,8 +163,8 @@ class DiscretePlot(inkBase.inkscapeMadeEasy):
         lineWidthDiscrete = 2 * so.generalAspectFactor * min(so.xScale, so.yScale) * so.stemAspectFactor / 40.0
         textSize = 8 * lineWidthDiscrete
         # sets colors. See inkDraw.color class for instructions.
-        [markerColor, alpha] = inkDraw.color.parseColorPicker(so.markColorOption, so.colorPickerMark)
-        [lineColor, alpha] = inkDraw.color.parseColorPicker(so.lineColorOption, so.colorPickerLine)
+        markerColor = inkDraw.color.parseColorPicker(so.markColorOption, so.colorPickerMark)
+        lineColor = inkDraw.color.parseColorPicker(so.lineColorOption, so.colorPickerLine)
 
         nameMarkerDot = inkDraw.marker.createDotMarker(self, 'DotMDiscreteTime', RenameMode=2, scale=0.3 * so.stemAspectFactor,
                                                        strokeColor=markerColor, fillColor=markerColor)
